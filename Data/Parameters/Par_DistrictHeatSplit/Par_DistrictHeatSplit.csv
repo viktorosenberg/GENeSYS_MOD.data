@@ -659,3 +659,201 @@ UK,Industry,2045,0,,PJ,European Commission: District heating and cooling in the 
 UK,Industry,2050,0,,PJ,European Commission: District heating and cooling in the European Union (see assumption and/or calculation file),10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,Industry,2055,0,,PJ,European Commission: District heating and cooling in the European Union (see assumption and/or calculation file),10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,Industry,2060,0,,PJ,European Commission: District heating and cooling in the European Union (see assumption and/or calculation file),10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+Africa,Buildings,2018,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Buildings,2025,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Buildings,2030,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Buildings,2035,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Buildings,2040,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Buildings,2045,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Buildings,2050,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Buildings,2055,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Buildings,2060,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Buildings,2018,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Buildings,2025,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Buildings,2030,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Buildings,2035,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Buildings,2040,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Buildings,2045,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Buildings,2050,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Buildings,2055,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Buildings,2060,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Buildings,2018,0.81,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Buildings,2025,0.77625,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Buildings,2030,0.7425,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Buildings,2035,0.70875,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Buildings,2040,0.675,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Buildings,2045,0.64125,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Buildings,2050,0.6075,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Buildings,2055,0.6075,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Buildings,2060,0.6075,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Buildings,2018,0.84,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Buildings,2025,0.805,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Buildings,2030,0.77,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Buildings,2035,0.735,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Buildings,2040,0.7,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Buildings,2045,0.665,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Buildings,2050,0.63,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Buildings,2055,0.63,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Buildings,2060,0.63,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Buildings,2018,0.81,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Buildings,2025,0.77625,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Buildings,2030,0.7425,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Buildings,2035,0.70875,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Buildings,2040,0.675,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Buildings,2045,0.64125,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Buildings,2050,0.6075,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Buildings,2055,0.6075,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Buildings,2060,0.6075,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Buildings,2018,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Buildings,2025,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Buildings,2030,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Buildings,2035,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Buildings,2040,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Buildings,2045,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Buildings,2050,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Buildings,2055,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Buildings,2060,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Buildings,2018,0.8,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Buildings,2025,0.766666667,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Buildings,2030,0.733333333,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Buildings,2035,0.7,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Buildings,2040,0.666666667,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Buildings,2045,0.633333333,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Buildings,2050,0.6,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Buildings,2055,0.6,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Buildings,2060,0.6,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Buildings,2018,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Buildings,2025,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Buildings,2030,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Buildings,2035,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Buildings,2040,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Buildings,2045,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Buildings,2050,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Buildings,2055,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Buildings,2060,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Buildings,2018,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Buildings,2025,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Buildings,2030,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Buildings,2035,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Buildings,2040,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Buildings,2045,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Buildings,2050,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Buildings,2055,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Buildings,2060,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Buildings,2018,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Buildings,2025,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Buildings,2030,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Buildings,2035,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Buildings,2040,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Buildings,2045,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Buildings,2050,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Buildings,2055,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Buildings,2060,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Buildings,2018,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Buildings,2025,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Buildings,2030,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Buildings,2035,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Buildings,2040,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Buildings,2045,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Buildings,2050,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Buildings,2055,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Buildings,2060,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Industry,2018,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Industry,2025,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Industry,2030,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Industry,2035,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Industry,2040,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Industry,2045,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Industry,2050,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Industry,2055,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Industry,2060,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Industry,2018,1,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Industry,2025,0.958333333,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Industry,2030,0.916666667,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Industry,2035,0.875,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Industry,2040,0.833333333,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Industry,2045,0.791666667,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Industry,2050,0.75,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Industry,2055,0.75,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Industry,2060,0.75,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Industry,2018,0.19,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Industry,2025,0.182083333,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Industry,2030,0.174166667,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Industry,2035,0.16625,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Industry,2040,0.158333333,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Industry,2045,0.150416667,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Industry,2050,0.1425,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Industry,2055,0.1425,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Industry,2060,0.1425,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Industry,2018,0.16,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Industry,2025,0.153333333,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Industry,2030,0.146666667,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Industry,2035,0.14,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Industry,2040,0.133333333,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Industry,2045,0.126666667,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Industry,2050,0.12,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Industry,2055,0.12,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Industry,2060,0.12,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Industry,2018,0.19,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Industry,2025,0.182083333,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Industry,2030,0.174166667,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Industry,2035,0.16625,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Industry,2040,0.158333333,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Industry,2045,0.150416667,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Industry,2050,0.1425,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Industry,2055,0.1425,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Industry,2060,0.1425,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Industry,2018,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Industry,2025,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Industry,2030,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Industry,2035,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Industry,2040,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Industry,2045,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Industry,2050,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Industry,2055,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Industry,2060,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Industry,2018,0.2,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Industry,2025,0.191666667,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Industry,2030,0.183333333,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Industry,2035,0.175,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Industry,2040,0.166666667,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Industry,2045,0.158333333,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Industry,2050,0.15,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Industry,2055,0.15,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Industry,2060,0.15,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Industry,2018,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Industry,2025,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Industry,2030,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Industry,2035,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Industry,2040,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Industry,2045,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Industry,2050,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Industry,2055,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Industry,2060,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Industry,2018,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Industry,2025,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Industry,2030,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Industry,2035,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Industry,2040,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Industry,2045,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Industry,2050,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Industry,2055,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Industry,2060,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Industry,2018,1,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Industry,2025,0.958333333,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Industry,2030,0.916666667,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Industry,2035,0.875,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Industry,2040,0.833333333,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Industry,2045,0.791666667,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Industry,2050,0.75,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Industry,2055,0.75,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Industry,2060,0.75,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Industry,2018,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Industry,2025,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Industry,2030,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Industry,2035,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Industry,2040,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Industry,2045,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Industry,2050,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Industry,2055,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Industry,2060,0,,Fraction,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018 (see assumptions),14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>

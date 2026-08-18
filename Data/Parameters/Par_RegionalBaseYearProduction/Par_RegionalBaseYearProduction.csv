@@ -692,55 +692,47 @@ UK,P_Gas_Engines,Power,2018,3.541,,PJ,,,
 UK,P_Gas_OCGT,Power,2018,11.715,,PJ,,,
 UK,P_Nuclear,Power,2018,234.23,,PJ,,,
 UK,P_Oil,Power,2018,2.933,,PJ,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
 AT,CHP_Biomass_Solid,Heat_District,2018,39.6595,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,CHP_Coal_Hardcoal,Heat_District,2018,4.3192,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,CHP_Gas_CCGT_Natural,Heat_District,2018,30.3775,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,CHP_Oil,Heat_District,2018,4.2191,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,CHP_WasteToEnergy,Heat_District,2018,5.9067,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,CHP_Biomass_Solid,Heat_District,2018,8.3412,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,CHP_Coal_Hardcoal,Heat_District,2018,0.828,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,CHP_Gas_CCGT_Natural,Heat_District,2018,17.676,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,HD_Heatpump_ExcessHeat,Heat_District,2018,0.2016,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,CHP_Biomass_Solid,Heat_District,2018,5.8574,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,CHP_Coal_Hardcoal,Heat_District,2018,10.1282,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,CHP_Coal_Lignite,Heat_District,2018,47.4692,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,CHP_Gas_CCGT_Natural,Heat_District,2018,24.4057,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,HD_Heatpump_Air,Heat_District,2018,0.0992,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,HD_Heatpump_ExcessHeat,Heat_District,2018,0.5953,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Biomass_Solid,Heat_District,2018,94.5648,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Coal_Hardcoal,Heat_District,2018,108.954,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Coal_Lignite,Heat_District,2018,22.2447,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Gas_CCGT_Natural,Heat_District,2018,193.889,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Oil,Heat_District,2018,5.2092,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_WasteToEnergy,Heat_District,2018,57.0888,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Geothermal,Heat_District,2018,3.2832,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Heatpump_ExcessHeat,Heat_District,2018,8.28,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Solar_Thermal,Heat_District,2018,0.1152,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,CHP_Biomass_Solid,Heat_District,2018,76.381,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,CHP_Coal_Hardcoal,Heat_District,2018,16.509,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,CHP_Gas_CCGT_Natural,Heat_District,2018,20.446,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,CHP_Oil,Heat_District,2018,1.29,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,CHP_WasteToEnergy,Heat_District,2018,12.697,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,HD_Geothermal,Heat_District,2018,0.055,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,HD_Heatpump_Air,Heat_District,2018,1.367,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,HD_Heatpump_ExcessHeat,Heat_District,2018,4.055,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,HD_Solar_Thermal,Heat_District,2018,2.134,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Biomass_Solid,Heat_District,2018,9.491,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,45827,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,Heat_District,2018,8.6694,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,45827,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Oil,Heat_District,2018,1.713,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,45827,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,HD_Heatpump_ExcessHeat,Heat_District,2018,3.3972,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,45827,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,CHP_Biomass_Solid,Heat_District,2018,56.4644,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,CHP_Coal_Hardcoal,Heat_District,2018,53.8273,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,CHP_Gas_CCGT_Natural,Heat_District,2018,19.3902,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,CHP_Oil,Heat_District,2018,3.878,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,CHP_Biomass_Solid,Heat_District,2018,8.3412,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,CHP_Coal_Hardcoal,Heat_District,2018,0.828,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,CHP_Gas_CCGT_Natural,Heat_District,2018,17.676,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,HD_Heatpump_ExcessHeat,Heat_District,2018,0.2016,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,CHP_Biomass_Solid,Heat_District,2018,5.8574,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,CHP_Coal_Hardcoal,Heat_District,2018,10.1282,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,CHP_Coal_Lignite,Heat_District,2018,47.4692,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,CHP_Gas_CCGT_Natural,Heat_District,2018,24.4057,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_Air,Heat_District,2018,0.0992,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_ExcessHeat,Heat_District,2018,0.5953,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Biomass_Solid,Heat_District,2018,94.5648,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Hardcoal,Heat_District,2018,108.954,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Lignite,Heat_District,2018,22.2447,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Natural,Heat_District,2018,193.889,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Oil,Heat_District,2018,5.2092,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,Heat_District,2018,57.0888,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,Heat_District,2018,3.2832,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,Heat_District,2018,8.28,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Solar_Thermal,Heat_District,2018,0.1152,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_Biomass_Solid,Heat_District,2018,76.381,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_Coal_Hardcoal,Heat_District,2018,16.509,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_Gas_CCGT_Natural,Heat_District,2018,20.446,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_Oil,Heat_District,2018,1.29,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_WasteToEnergy,Heat_District,2018,12.697,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Geothermal,Heat_District,2018,0.055,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Heatpump_Air,Heat_District,2018,1.367,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Heatpump_ExcessHeat,Heat_District,2018,4.055,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Solar_Thermal,Heat_District,2018,2.134,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Biomass_Solid,Heat_District,2018,9.491,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,Heat_District,2018,8.6694,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Oil,Heat_District,2018,1.713,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,HD_Heatpump_ExcessHeat,Heat_District,2018,3.3972,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Biomass_Solid,Heat_District,2018,56.4644,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Coal_Hardcoal,Heat_District,2018,53.8273,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Gas_CCGT_Natural,Heat_District,2018,19.3902,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Oil,Heat_District,2018,3.878,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,CHP_Biomass_Solid,Heat_District,2018,58.2372,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed) - adjusted for mismatch between consumption and supply,26.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,CHP_Coal_Hardcoal,Heat_District,2018,5.5116,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed) - adjusted for mismatch between consumption and supply,26.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,CHP_Gas_CCGT_Natural,Heat_District,2018,45.756,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed) - adjusted for mismatch between consumption and supply,26.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -748,35 +740,35 @@ FR,CHP_Oil,Heat_District,2018,0.8172,,PJ,European Commission 2021: Overview of D
 FR,HD_Geothermal,Heat_District,2018,6.048,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed) - adjusted for mismatch between consumption and supply,26.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HD_Heatpump_Air,Heat_District,2018,0.99,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed) - adjusted for mismatch between consumption and supply,26.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HD_Heatpump_ExcessHeat,Heat_District,2018,3.0816,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed) - adjusted for mismatch between consumption and supply,26.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,CHP_Coal_Hardcoal,Heat_District,2018,1.224,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,CHP_Biomass_Solid,Heat_District,2018,0.0354,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,CHP_Gas_CCGT_Natural,Heat_District,2018,7.5888,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,CHP_Oil,Heat_District,2018,1.2276,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,HD_Geothermal,Heat_District,2018,0.0155,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,CHP_Coal_Hardcoal,Heat_District,2018,1.224,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,CHP_Biomass_Solid,Heat_District,2018,0.0354,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,CHP_Gas_CCGT_Natural,Heat_District,2018,7.5888,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,CHP_Oil,Heat_District,2018,1.2276,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,HD_Geothermal,Heat_District,2018,0.0155,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,CHP_Biomass_Solid,Heat_District,2018,5.301,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,CHP_Coal_Hardcoal,Heat_District,2018,0.5408,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,CHP_Gas_CCGT_Natural,Heat_District,2018,23.202,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,CHP_Oil,Heat_District,2018,0.0589,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,CHP_WasteToEnergy,Heat_District,2018,2.5726,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HD_Geothermal,Heat_District,2018,2.2923,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,CHP_Biomass_Solid,Heat_District,2018,3.8814,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,CHP_Coal_Hardcoal,Heat_District,2018,1.0108,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,CHP_Gas_CCGT_Natural,Heat_District,2018,28.4234,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,CHP_Oil,Heat_District,2018,0.4043,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,CHP_WasteToEnergy,Heat_District,2018,5.7413,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,HD_Geothermal,Heat_District,2018,0.566,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,HD_Heatpump_Air,Heat_District,2018,0.2196,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,HD_Heatpump_ExcessHeat,Heat_District,2018,0.1836,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_Biomass_Solid,Heat_District,2018,3.8814,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_Coal_Hardcoal,Heat_District,2018,1.0108,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_Gas_CCGT_Natural,Heat_District,2018,28.4234,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_Oil,Heat_District,2018,0.4043,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_WasteToEnergy,Heat_District,2018,5.7413,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Geothermal,Heat_District,2018,0.566,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Heatpump_Air,Heat_District,2018,0.2196,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Heatpump_ExcessHeat,Heat_District,2018,0.1836,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,CHP_Biomass_Solid,Heat_District,2018,20.2453,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,CHP_Gas_CCGT_Natural,Heat_District,2018,11.9225,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,CHP_Oil,Heat_District,2018,0.9908,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,CHP_Biomass_Solid,Heat_District,2018,13.8575,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,CHP_Coal_Hardcoal,Heat_District,2018,0.324,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,CHP_Gas_CCGT_Natural,Heat_District,2018,15.6077,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,CHP_Oil,Heat_District,2018,0.1238,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NL,CHP_Biomass_Solid,Heat_District,2018,6.4,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NL,CHP_Gas_CCGT_Natural,Heat_District,2018,18.9,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NL,CHP_WasteToEnergy,Heat_District,2018,2.3,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Biomass_Solid,Heat_District,2018,13.8575,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Coal_Hardcoal,Heat_District,2018,0.324,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Gas_CCGT_Natural,Heat_District,2018,15.6077,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Oil,Heat_District,2018,0.1238,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,CHP_Biomass_Solid,Heat_District,2018,6.4,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,CHP_Gas_CCGT_Natural,Heat_District,2018,18.9,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,CHP_WasteToEnergy,Heat_District,2018,2.3,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,CHP_Biomass_Solid,Heat_District,2018,5.844,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,CHP_Coal_Hardcoal,Heat_District,2018,0.2606,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,CHP_Gas_CCGT_Biogas,Heat_District,2018,0.1332,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -791,11 +783,11 @@ PL,CHP_Coal_Hardcoal,Heat_District,2018,213.2712,,PJ,European Commission 2021: O
 PL,CHP_Gas_CCGT_Natural,Heat_District,2018,25.2983,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,CHP_Oil,Heat_District,2018,13.9729,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,CHP_WasteToEnergy,Heat_District,2018,0.7059,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),16.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,CHP_Biomass_Solid,Heat_District,2018,0.3244,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,CHP_Coal_Lignite,Heat_District,2018,8.9566,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,CHP_Gas_CCGT_Natural,Heat_District,2018,40.6416,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,CHP_Oil,Heat_District,2018,0.2281,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,CHP_WasteToEnergy,Heat_District,2018,0.5373,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Biomass_Solid,Heat_District,2018,0.3244,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Coal_Lignite,Heat_District,2018,8.9566,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Gas_CCGT_Natural,Heat_District,2018,40.6416,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Oil,Heat_District,2018,0.2281,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_WasteToEnergy,Heat_District,2018,0.5373,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,CHP_Biomass_Solid,Heat_District,2018,82.1322,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),27.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,CHP_Coal_Hardcoal,Heat_District,2018,12.299,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),27.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,CHP_Gas_CCGT_Natural,Heat_District,2018,5.1906,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),27.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -803,19 +795,19 @@ SE,CHP_Oil,Heat_District,2018,6.6706,,PJ,European Commission 2021: Overview of D
 SE,CHP_WasteToEnergy,Heat_District,2018,49.196,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),27.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HD_Heatpump_Air,Heat_District,2018,21.6796,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),27.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HD_Heatpump_ExcessHeat,Heat_District,2018,16.0512,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),27.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,CHP_Biomass_Solid,Heat_District,2018,1.5325,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,CHP_Coal_Hardcoal,Heat_District,2018,4.2188,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,CHP_Gas_CCGT_Natural,Heat_District,2018,2.5915,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,CHP_Oil,Heat_District,2018,0.1119,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,HD_Geothermal,Heat_District,2018,0.0603,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,HD_Heatpump_ExcessHeat,Heat_District,2018,0.1464,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Biomass_Solid,Heat_District,2018,1.5325,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Coal_Hardcoal,Heat_District,2018,4.2188,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Gas_CCGT_Natural,Heat_District,2018,2.5915,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Oil,Heat_District,2018,0.1119,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Geothermal,Heat_District,2018,0.0603,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Heatpump_ExcessHeat,Heat_District,2018,0.1464,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,CHP_Biomass_Solid,Heat_District,2018,4.971,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),02.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,CHP_Coal_Hardcoal,Heat_District,2018,14.3495,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),02.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,CHP_Gas_CCGT_Natural,Heat_District,2018,30.1878,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),02.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,CHP_Oil,Heat_District,2018,5.2254,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),02.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,CHP_Biomass_Solid,Heat_District,2018,5.2272,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,CHP_Gas_CCGT_Natural,Heat_District,2018,41.8176,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,HD_Heatpump_Air,Heat_District,2018,0.4752,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,CHP_Biomass_Solid,Heat_District,2018,5.2272,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,CHP_Gas_CCGT_Natural,Heat_District,2018,41.8176,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HD_Heatpump_Air,Heat_District,2018,0.4752,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HHI_BF_BOF,Heat_High_Industrial,2018,20.1428,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat (See calculation file) - District Heat (proportional only for HLI),08.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.8059,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat (See calculation file) - District Heat (proportional only for HLI),08.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HHI_DRI_EAF,Heat_High_Industrial,2018,19.6766,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat (See calculation file) - District Heat (proportional only for HLI),08.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1424,11 +1416,619 @@ UK,HMHI_Gas,Heat_MediumLow_Industrial,2018,52.6722,,PJ,TYNDP 2024 +  SINTEF_Pote
 UK,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,5.8054,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat (See calculation file) - District Heat (proportional only for HLI),08.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HMHI_Oil,Heat_MediumLow_Industrial,2018,13.5239,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat (See calculation file) - District Heat (proportional only for HLI),08.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,8.3181,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat (See calculation file) - District Heat (proportional only for HLI),08.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+Africa,CHP_WasteToEnergy,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,CHP_WasteToEnergy,Power,2018,9.895428,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,CHP_WasteToEnergy,Power,2018,83.750724,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,CHP_WasteToEnergy,Power,2018,87.121512,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,CHP_WasteToEnergy,Power,2018,0.58392,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,CHP_WasteToEnergy,Power,2018,1.500876,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,CHP_WasteToEnergy,Power,2018,7.14114,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,CHP_WasteToEnergy,Power,2018,0.07272,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,CHP_WasteToEnergy,Power,2018,0.41112,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,CHP_WasteToEnergy,Power,2018,30.848148,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,CHP_WasteToEnergy,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,CHP_Gas_CCGT_Biogas,Power,2018,0.460944,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,CHP_Gas_CCGT_Biogas,Power,2018,11.980116,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,CHP_Gas_CCGT_Biogas,Power,2018,11.688948,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,CHP_Gas_CCGT_Biogas,Power,2018,236.557548,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,CHP_Gas_CCGT_Biogas,Power,2018,0.105336,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,CHP_Gas_CCGT_Biogas,Power,2018,0.11322,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,CHP_Gas_CCGT_Biogas,Power,2018,2.08188,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,CHP_Gas_CCGT_Biogas,Power,2018,8.13474,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,CHP_Gas_CCGT_Biogas,Power,2018,0.928692,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,CHP_Gas_CCGT_Biogas,Power,2018,53.491176,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,CHP_Gas_CCGT_Biogas,Power,2018,5.64588,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,P_Biomass,Power,2018,11.647008,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,P_Biomass,Power,2018,121.364928,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,P_Biomass,Power,2018,147.165804,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,P_Biomass,Power,2018,381.853728,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,P_Biomass,Power,2018,0.236487737,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,P_Biomass,Power,2018,65.809008,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,P_Biomass,Power,2018,93.513132,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,P_Biomass,Power,2018,256.416444,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,P_Biomass,Power,2018,10.41858,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,P_Biomass,Power,2018,210.213756,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,P_Biomass,Power,2018,10.249308,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,CHP_Biomass_Solid,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,CHP_Biomass_Solid,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,CHP_Biomass_Solid,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,CHP_Biomass_Solid,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,CHP_Biomass_Solid,Power,2018,0.116528263,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,CHP_Biomass_Solid,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,CHP_Biomass_Solid,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,CHP_Biomass_Solid,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,CHP_Biomass_Solid,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,CHP_Biomass_Solid,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,CHP_Biomass_Solid,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + own calculations,20.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,CHP_Coal_Hardcoal,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,CHP_Coal_Hardcoal,Power,2018,12.14887321,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,CHP_Coal_Hardcoal,Power,2018,5162.57112,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,CHP_Coal_Hardcoal,Power,2018,453.2906448,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,CHP_Coal_Hardcoal,Power,2018,762.0034725,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,CHP_Coal_Hardcoal,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,CHP_Coal_Hardcoal,Power,2018,113.9174884,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,CHP_Coal_Hardcoal,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,CHP_Coal_Hardcoal,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,CHP_Coal_Hardcoal,Power,2018,24.9246886,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,CHP_Coal_Hardcoal,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,CHP_Coal_Lignite,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,CHP_Coal_Lignite,Power,2018,1.215934244,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,CHP_Coal_Lignite,Power,2018,509.1153109,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,CHP_Coal_Lignite,Power,2018,208.2261049,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,CHP_Coal_Lignite,Power,2018,458.5675219,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,CHP_Coal_Lignite,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,CHP_Coal_Lignite,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,CHP_Coal_Lignite,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,CHP_Coal_Lignite,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,CHP_Coal_Lignite,Power,2018,1.824595538,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,CHP_Coal_Lignite,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,CHP_Gas_CCGT_Natural,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,CHP_Gas_CCGT_Natural,Power,2018,21.037717,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,CHP_Gas_CCGT_Natural,Power,2018,495.3640349,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,CHP_Gas_CCGT_Natural,Power,2018,979.5576271,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,CHP_Gas_CCGT_Natural,Power,2018,4695.879679,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,CHP_Gas_CCGT_Natural,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,CHP_Gas_CCGT_Natural,Power,2018,184.6021504,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,CHP_Gas_CCGT_Natural,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,CHP_Gas_CCGT_Natural,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,CHP_Gas_CCGT_Natural,Power,2018,61.00820493,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,CHP_Gas_CCGT_Natural,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,CHP_Oil,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2025,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,CHP_Oil,Power,2018,1.848213521,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,CHP_Oil,Power,2018,3.017242702,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,CHP_Oil,Power,2018,62.608,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,CHP_Oil,Power,2018,53.69963706,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,CHP_Oil,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,CHP_Oil,Power,2018,14.98224005,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,CHP_Oil,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,CHP_Oil,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,CHP_Oil,Power,2018,2.583101082,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,CHP_Oil,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,P_Coal_Hardcoal,Power,2018,842.122332,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,P_Coal_Hardcoal,Power,2018,1784.247851,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,P_Coal_Hardcoal,Power,2018,9602.700873,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,P_Coal_Hardcoal,Power,2018,1306.815397,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,P_Coal_Hardcoal,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,P_Coal_Hardcoal,Power,2018,3713.095549,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,P_Coal_Hardcoal,Power,2018,2029.425924,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,P_Coal_Hardcoal,Power,2018,223.124472,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,P_Coal_Hardcoal,Power,2018,58.40475443,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,P_Coal_Hardcoal,Power,2018,4503.543397,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,P_Coal_Hardcoal,Power,2018,457.0944501,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,P_Coal_Lignite,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,P_Coal_Lignite,Power,2018,178.5785417,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,P_Coal_Lignite,Power,2018,946.9858964,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,P_Coal_Lignite,Power,2018,1408.561695,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,P_Coal_Lignite,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,P_Coal_Lignite,Power,2018,425.0060632,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,P_Coal_Lignite,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,P_Coal_Lignite,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,P_Coal_Lignite,Power,2018,18.25004557,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,P_Coal_Lignite,Power,2018,329.6789509,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,P_Coal_Lignite,Power,2018,121.5057939,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global coal plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,P_Gas_CCGT,Power,2018,687.6264494,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,P_Gas_CCGT,Power,2018,1506.729289,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,P_Gas_CCGT,Power,2018,324.0327445,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,P_Gas_CCGT,Power,2018,1717.716755,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,P_Gas_CCGT,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,P_Gas_CCGT,Power,2018,262.9081525,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,P_Gas_CCGT,Power,2018,1811.335554,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,P_Gas_CCGT,Power,2018,586.7672892,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,P_Gas_CCGT,Power,2018,2183.925549,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,P_Gas_CCGT,Power,2018,4454.645415,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,P_Gas_CCGT,Power,2018,84.99698029,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,P_Gas_Engines,Power,2018,57.48515316,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,P_Gas_Engines,Power,2018,178.5602907,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,P_Gas_Engines,Power,2018,0.114360715,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,P_Gas_Engines,Power,2018,26.366,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,P_Gas_Engines,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,P_Gas_Engines,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,P_Gas_Engines,Power,2018,5.117301025,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,P_Gas_Engines,Power,2018,151.1667273,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,P_Gas_Engines,Power,2018,74.01392848,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,P_Gas_Engines,Power,2018,61.08198808,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,P_Gas_Engines,Power,2018,11.65058508,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,P_Gas_OCGT,Power,2018,434.0885934,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,P_Gas_OCGT,Power,2018,101.0631795,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,P_Gas_OCGT,Power,2018,3.654059839,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,P_Gas_OCGT,Power,2018,213.1754957,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,P_Gas_OCGT,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,P_Gas_OCGT,Power,2018,3.571551517,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,P_Gas_OCGT,Power,2018,16.96394662,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,P_Gas_OCGT,Power,2018,174.3391035,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,P_Gas_OCGT,Power,2018,916.9586264,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,P_Gas_OCGT,Power,2018,1863.428628,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,P_Gas_OCGT,Power,2018,119.5174586,,PJ,IRENA - Renewable capacity statistics 2026 + gem - global oil and gas plant tracker,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,P_Nuclear,Power,2018,44.0397,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,P_Nuclear,Power,2018,99.64188,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,P_Nuclear,Power,2018,1059.696,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,P_Nuclear,Power,2018,3129.576289,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,P_Nuclear,Power,2018,743.922864,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,P_Nuclear,Power,2018,137.565864,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,P_Nuclear,Power,2018,714.363696,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,P_Nuclear,Power,2018,79.656516,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,P_Nuclear,Power,2018,59.3226,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,P_Nuclear,Power,2018,3440.212668,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,P_Nuclear,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,P_Oil,Power,2018,268.558812,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,P_Oil,Power,2018,199.2618625,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,P_Oil,Power,2018,3.333157298,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,P_Oil,Power,2018,156.3241185,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,P_Oil,Power,2018,0,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,P_Oil,Power,2018,27.822636,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,P_Oil,Power,2018,192.458256,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,P_Oil,Power,2018,651.45726,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,P_Oil,Power,2018,1117.86786,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,P_Oil,Power,2018,342.7819629,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,P_Oil,Power,2018,35.495424,,PJ,IRENA - Renewable capacity statistics 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,CHP_WasteToEnergy,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,CHP_WasteToEnergy,Heat_District,2018,3.659361617,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2019,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,CHP_WasteToEnergy,Heat_District,2018,66.01537502,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2020,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,CHP_WasteToEnergy,Heat_District,2018,79.02707646,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2021,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,CHP_WasteToEnergy,Heat_District,2018,0.288266099,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2022,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,CHP_WasteToEnergy,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2023,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,CHP_WasteToEnergy,Heat_District,2018,3.904568332,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2024,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,CHP_WasteToEnergy,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2025,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,CHP_WasteToEnergy,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2026,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,CHP_WasteToEnergy,Heat_District,2018,10.60977132,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2027,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,CHP_WasteToEnergy,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2028,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,CHP_Gas_CCGT_Biogas,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2029,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,CHP_Gas_CCGT_Biogas,Heat_District,2018,4.430286053,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2030,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,CHP_Gas_CCGT_Biogas,Heat_District,2018,9.213655106,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2031,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,CHP_Gas_CCGT_Biogas,Heat_District,2018,214.5790518,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2032,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,CHP_Gas_CCGT_Biogas,Heat_District,2018,0.05200164,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2033,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,CHP_Gas_CCGT_Biogas,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2034,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,CHP_Gas_CCGT_Biogas,Heat_District,2018,1.138311631,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2035,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,CHP_Gas_CCGT_Biogas,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2036,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,CHP_Gas_CCGT_Biogas,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2037,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,CHP_Gas_CCGT_Biogas,Heat_District,2018,18.3975111,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2038,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,CHP_Gas_CCGT_Biogas,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2039,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,CHP_Biomass_Solid,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2040,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,CHP_Biomass_Solid,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2041,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,CHP_Biomass_Solid,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2042,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,CHP_Biomass_Solid,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2043,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,CHP_Biomass_Solid,Heat_District,2018,0.057526969,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2044,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,CHP_Biomass_Solid,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2045,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,CHP_Biomass_Solid,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2046,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,CHP_Biomass_Solid,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2047,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,CHP_Biomass_Solid,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2048,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,CHP_Biomass_Solid,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2049,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,CHP_Biomass_Solid,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2050,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,CHP_Coal_Hardcoal,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2051,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,CHP_Coal_Hardcoal,Heat_District,2018,4.49269302,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2052,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,CHP_Coal_Hardcoal,Heat_District,2018,4069.326834,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2053,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,CHP_Coal_Hardcoal,Heat_District,2018,411.1755366,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2054,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,CHP_Coal_Hardcoal,Heat_District,2018,376.1812723,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2055,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,CHP_Coal_Hardcoal,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2056,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,CHP_Coal_Hardcoal,Heat_District,2018,62.28678023,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2057,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,CHP_Coal_Hardcoal,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2058,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,CHP_Coal_Hardcoal,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2059,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,CHP_Coal_Hardcoal,Heat_District,2018,8.572483714,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2060,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,CHP_Coal_Hardcoal,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2061,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,CHP_Coal_Lignite,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2062,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,CHP_Coal_Lignite,Heat_District,2018,0.449656458,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2063,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,CHP_Coal_Lignite,Heat_District,2018,401.3032553,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2064,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,CHP_Coal_Lignite,Heat_District,2018,188.8798752,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2065,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,CHP_Coal_Lignite,Heat_District,2018,226.3828448,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2066,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,CHP_Coal_Lignite,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2067,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,CHP_Coal_Lignite,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2068,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,CHP_Coal_Lignite,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2069,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,CHP_Coal_Lignite,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2070,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,CHP_Coal_Lignite,Heat_District,2018,0.627543067,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2071,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,CHP_Coal_Lignite,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2072,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,CHP_Gas_CCGT_Natural,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2073,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,CHP_Gas_CCGT_Natural,Heat_District,2018,7.779816508,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2074,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,CHP_Gas_CCGT_Natural,Heat_District,2018,390.4639981,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2075,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,CHP_Gas_CCGT_Natural,Heat_District,2018,888.5471994,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2076,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,CHP_Gas_CCGT_Natural,Heat_District,2018,2318.23352,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2077,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,CHP_Gas_CCGT_Natural,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2078,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,CHP_Gas_CCGT_Natural,Heat_District,2018,100.9351043,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2079,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,CHP_Gas_CCGT_Natural,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2080,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,CHP_Gas_CCGT_Natural,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2081,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,CHP_Gas_CCGT_Natural,Heat_District,2018,20.98288374,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2082,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,CHP_Gas_CCGT_Natural,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2083,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,CHP_Oil,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2084,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,CHP_Oil,Heat_District,2018,0.683475401,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2085,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,CHP_Oil,Heat_District,2018,2.378300736,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2086,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,CHP_Oil,Heat_District,2018,56.79110807,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2087,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,CHP_Oil,Heat_District,2018,26.51011251,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2088,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,CHP_Oil,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2089,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,CHP_Oil,Heat_District,2018,8.191854526,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2090,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,CHP_Oil,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2091,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,CHP_Oil,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2092,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,CHP_Oil,Heat_District,2018,0.888420004,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2093,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,CHP_Oil,Heat_District,2018,0,,PJ,IRENA - Renewable capacity statistics 2026 + Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2094,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HB_Biomass,Heat_Buildings,2018,2786.842736,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HB_Biomass,Heat_Buildings,2018,1256.678313,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HB_Biomass,Heat_Buildings,2018,5734.237898,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HB_Biomass,Heat_Buildings,2018,2993.874632,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HB_Biomass,Heat_Buildings,2018,61.94295404,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HB_Biomass,Heat_Buildings,2018,4414.631341,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HB_Biomass,Heat_Buildings,2018,11.53883509,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HB_Biomass,Heat_Buildings,2018,1123.253589,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HB_Biomass,Heat_Buildings,2018,1468.748714,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HB_Biomass,Heat_Buildings,2018,725.164576,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HB_Biomass,Heat_Buildings,2018,49.76802929,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HB_Direct_Electric,Heat_Buildings,2018,796.391368,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HB_Direct_Electric,Heat_Buildings,2018,512.7060638,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HB_Direct_Electric,Heat_Buildings,2018,939.6134135,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HB_Direct_Electric,Heat_Buildings,2018,1793.366969,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HB_Direct_Electric,Heat_Buildings,2018,736.2298795,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HB_Direct_Electric,Heat_Buildings,2018,868.9619121,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HB_Direct_Electric,Heat_Buildings,2018,1088.03281,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HB_Direct_Electric,Heat_Buildings,2018,625.579364,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HB_Direct_Electric,Heat_Buildings,2018,1458.331619,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HB_Direct_Electric,Heat_Buildings,2018,3058.843307,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HB_Direct_Electric,Heat_Buildings,2018,131.9995163,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HB_Gas_Boiler,Heat_Buildings,2018,746.2037926,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HB_Gas_Boiler,Heat_Buildings,2018,122.4728864,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HB_Gas_Boiler,Heat_Buildings,2018,2818.108369,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HB_Gas_Boiler,Heat_Buildings,2018,7108.037837,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HB_Gas_Boiler,Heat_Buildings,2018,3538.491249,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HB_Gas_Boiler,Heat_Buildings,2018,13.54181393,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HB_Gas_Boiler,Heat_Buildings,2018,1123.113282,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HB_Gas_Boiler,Heat_Buildings,2018,455.8130507,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HB_Gas_Boiler,Heat_Buildings,2018,2474.740985,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HB_Gas_Boiler,Heat_Buildings,2018,5088.442957,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HB_Gas_Boiler,Heat_Buildings,2018,135.6064651,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HB_Geothermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HB_Geothermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HB_Geothermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HB_Geothermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HB_Geothermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HB_Geothermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HB_Geothermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HB_Geothermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HB_Geothermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HB_Geothermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HB_Geothermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HB_H2_Boiler,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HB_H2_Boiler,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HB_H2_Boiler,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HB_H2_Boiler,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HB_H2_Boiler,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HB_H2_Boiler,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HB_H2_Boiler,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HB_H2_Boiler,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HB_H2_Boiler,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HB_H2_Boiler,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HB_H2_Boiler,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HB_Hardcoal,Heat_Buildings,2018,258.8870301,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HB_Hardcoal,Heat_Buildings,2018,14.52133904,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HB_Hardcoal,Heat_Buildings,2018,2609.753848,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HB_Hardcoal,Heat_Buildings,2018,296.6036467,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HB_Hardcoal,Heat_Buildings,2018,183.6874257,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HB_Hardcoal,Heat_Buildings,2018,103.2834514,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HB_Hardcoal,Heat_Buildings,2018,15.38511345,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HB_Hardcoal,Heat_Buildings,2018,3.255807505,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HB_Hardcoal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HB_Hardcoal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HB_Hardcoal,Heat_Buildings,2018,0.360704269,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HB_Heatpump_Aerial,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HB_Heatpump_Aerial,Heat_Buildings,2018,7.987362158,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HB_Heatpump_Aerial,Heat_Buildings,2018,4410.95223,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HB_Heatpump_Aerial,Heat_Buildings,2018,637.4055669,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HB_Heatpump_Aerial,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HB_Heatpump_Aerial,Heat_Buildings,2018,101.5636045,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HB_Heatpump_Aerial,Heat_Buildings,2018,57.69417545,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HB_Heatpump_Aerial,Heat_Buildings,2018,78.13938011,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HB_Heatpump_Aerial,Heat_Buildings,2018,40.23969081,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HB_Heatpump_Aerial,Heat_Buildings,2018,221.2366503,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HB_Heatpump_Aerial,Heat_Buildings,2018,46.57191731,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HB_Heatpump_Ground,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HB_Heatpump_Ground,Heat_Buildings,2018,1.331227026,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HB_Heatpump_Ground,Heat_Buildings,2018,735.1587049,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HB_Heatpump_Ground,Heat_Buildings,2018,106.2342611,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HB_Heatpump_Ground,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HB_Heatpump_Ground,Heat_Buildings,2018,16.92726741,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HB_Heatpump_Ground,Heat_Buildings,2018,9.615695908,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HB_Heatpump_Ground,Heat_Buildings,2018,13.02323002,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HB_Heatpump_Ground,Heat_Buildings,2018,6.706615135,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HB_Heatpump_Ground,Heat_Buildings,2018,36.87277505,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HB_Heatpump_Ground,Heat_Buildings,2018,7.761986219,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HB_Lignite,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HB_Lignite,Heat_Buildings,2018,1.453385273,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HB_Lignite,Heat_Buildings,2018,257.3651017,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HB_Lignite,Heat_Buildings,2018,340.8019202,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HB_Lignite,Heat_Buildings,2018,110.541606,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HB_Lignite,Heat_Buildings,2018,11.82196701,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HB_Lignite,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HB_Lignite,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HB_Lignite,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HB_Lignite,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HB_Lignite,Heat_Buildings,2018,0.095883156,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HB_Oil_Boiler,Heat_Buildings,2018,974.633525,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HB_Oil_Boiler,Heat_Buildings,2018,439.3049187,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HB_Oil_Boiler,Heat_Buildings,2018,2989.6454,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HB_Oil_Boiler,Heat_Buildings,2018,1892.90138,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HB_Oil_Boiler,Heat_Buildings,2018,758.801187,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HB_Oil_Boiler,Heat_Buildings,2018,1151.054184,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HB_Oil_Boiler,Heat_Buildings,2018,876.9514668,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HB_Oil_Boiler,Heat_Buildings,2018,556.7430833,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HB_Oil_Boiler,Heat_Buildings,2018,757.8475102,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HB_Oil_Boiler,Heat_Buildings,2018,860.3647512,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HB_Oil_Boiler,Heat_Buildings,2018,17.80690956,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HB_Solar_Thermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HB_Solar_Thermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HB_Solar_Thermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HB_Solar_Thermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HB_Solar_Thermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HB_Solar_Thermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HB_Solar_Thermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HB_Solar_Thermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HB_Solar_Thermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HB_Solar_Thermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HB_Solar_Thermal,Heat_Buildings,2018,0,,PJ,IEA - Residential energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HHI_BF_BOF,Heat_High_Industrial,2018,148.6738417,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HHI_BF_BOF,Heat_High_Industrial,2018,333.7903371,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HHI_BF_BOF,Heat_High_Industrial,2018,6274.935544,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HHI_BF_BOF,Heat_High_Industrial,2018,465.6330954,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HHI_BF_BOF,Heat_High_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HHI_BF_BOF,Heat_High_Industrial,2018,1408.423982,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HHI_BF_BOF,Heat_High_Industrial,2018,362.8737274,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HHI_BF_BOF,Heat_High_Industrial,2018,252.3281492,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HHI_BF_BOF,Heat_High_Industrial,2018,171.2557021,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HHI_BF_BOF,Heat_High_Industrial,2018,235.7156157,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HHI_BF_BOF,Heat_High_Industrial,2018,97.73677981,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HHI_DRI_EAF,Heat_High_Industrial,2018,74.24302926,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HHI_DRI_EAF,Heat_High_Industrial,2018,64.71440591,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HHI_DRI_EAF,Heat_High_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HHI_DRI_EAF,Heat_High_Industrial,2018,648.883873,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HHI_DRI_EAF,Heat_High_Industrial,2018,1239.073849,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HHI_DRI_EAF,Heat_High_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HHI_DRI_EAF,Heat_High_Industrial,2018,54.78304566,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HHI_DRI_EAF,Heat_High_Industrial,2018,317.4057107,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HHI_DRI_EAF,Heat_High_Industrial,2018,673.2967787,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HHI_DRI_EAF,Heat_High_Industrial,2018,777.561144,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HHI_DRI_EAF,Heat_High_Industrial,2018,118.7494581,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HHI_Scrap_EAF,Heat_High_Industrial,2018,17.48867238,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HHI_Scrap_EAF,Heat_High_Industrial,2018,31.53463531,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HHI_Scrap_EAF,Heat_High_Industrial,2018,27.66547168,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HHI_Scrap_EAF,Heat_High_Industrial,2018,136.0267211,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HHI_Scrap_EAF,Heat_High_Industrial,2018,107.3007328,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HHI_Scrap_EAF,Heat_High_Industrial,2018,27.94851085,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HHI_Scrap_EAF,Heat_High_Industrial,2018,57.5125801,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HHI_Scrap_EAF,Heat_High_Industrial,2018,58.46037021,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HHI_Scrap_EAF,Heat_High_Industrial,2018,33.42752916,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HHI_Scrap_EAF,Heat_High_Industrial,2018,93.32730924,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HHI_Scrap_EAF,Heat_High_Industrial,2018,20.79741184,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HLI_Biomass,Heat_Low_Industrial,2018,170.3730699,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HLI_Biomass,Heat_Low_Industrial,2018,325.5410868,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HLI_Biomass,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HLI_Biomass,Heat_Low_Industrial,2018,355.8414301,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HLI_Biomass,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HLI_Biomass,Heat_Low_Industrial,2018,694.799736,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HLI_Biomass,Heat_Low_Industrial,2018,72.07078125,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HLI_Biomass,Heat_Low_Industrial,2018,626.0441718,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HLI_Biomass,Heat_Low_Industrial,2018,28.90924043,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HLI_Biomass,Heat_Low_Industrial,2018,452.1667412,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HLI_Biomass,Heat_Low_Industrial,2018,55.28723492,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HLI_Direct_Electric,Heat_Low_Industrial,2018,25.6273913,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HLI_Direct_Electric,Heat_Low_Industrial,2018,85.51255072,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HLI_Direct_Electric,Heat_Low_Industrial,2018,636.8770044,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HLI_Direct_Electric,Heat_Low_Industrial,2018,167.3434476,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HLI_Direct_Electric,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HLI_Direct_Electric,Heat_Low_Industrial,2018,69.2527132,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HLI_Direct_Electric,Heat_Low_Industrial,2018,71.42285191,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HLI_Direct_Electric,Heat_Low_Industrial,2018,50.39191665,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HLI_Direct_Electric,Heat_Low_Industrial,2018,17.22243185,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HLI_Direct_Electric,Heat_Low_Industrial,2018,125.432076,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HLI_Direct_Electric,Heat_Low_Industrial,2018,11.39376271,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HLI_Gas_Boiler,Heat_Low_Industrial,2018,158.3571693,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HLI_Gas_Boiler,Heat_Low_Industrial,2018,431.5982463,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HLI_Gas_Boiler,Heat_Low_Industrial,2018,46.15801618,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HLI_Gas_Boiler,Heat_Low_Industrial,2018,967.5934535,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HLI_Gas_Boiler,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HLI_Gas_Boiler,Heat_Low_Industrial,2018,124.5941715,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HLI_Gas_Boiler,Heat_Low_Industrial,2018,195.9982686,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HLI_Gas_Boiler,Heat_Low_Industrial,2018,269.9280651,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HLI_Gas_Boiler,Heat_Low_Industrial,2018,540.9544017,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HLI_Gas_Boiler,Heat_Low_Industrial,2018,1551.413757,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HLI_Gas_Boiler,Heat_Low_Industrial,2018,89.00956686,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HLI_Geothermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HLI_Geothermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HLI_Geothermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HLI_Geothermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HLI_Geothermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HLI_Geothermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HLI_Geothermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HLI_Geothermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HLI_Geothermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HLI_Geothermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HLI_Geothermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HLI_Hardcoal,Heat_Low_Industrial,2018,88.51992338,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HLI_Hardcoal,Heat_Low_Industrial,2018,306.3251339,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HLI_Hardcoal,Heat_Low_Industrial,2018,3106.683136,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HLI_Hardcoal,Heat_Low_Industrial,2018,89.24384389,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HLI_Hardcoal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HLI_Hardcoal,Heat_Low_Industrial,2018,503.2994367,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HLI_Hardcoal,Heat_Low_Industrial,2018,181.3596098,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HLI_Hardcoal,Heat_Low_Industrial,2018,68.60795181,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HLI_Hardcoal,Heat_Low_Industrial,2018,26.71520576,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HLI_Hardcoal,Heat_Low_Industrial,2018,98.40437294,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HLI_Hardcoal,Heat_Low_Industrial,2018,16.26181824,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HLI_Lignite,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HLI_Lignite,Heat_Low_Industrial,2018,30.65891081,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HLI_Lignite,Heat_Low_Industrial,2018,306.3705882,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HLI_Lignite,Heat_Low_Industrial,2018,102.5424795,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HLI_Lignite,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HLI_Lignite,Heat_Low_Industrial,2018,57.60835114,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HLI_Lignite,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HLI_Lignite,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HLI_Lignite,Heat_Low_Industrial,2018,8.347843037,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HLI_Lignite,Heat_Low_Industrial,2018,7.203627804,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HLI_Lignite,Heat_Low_Industrial,2018,4.322750221,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HLI_Oil_Boiler,Heat_Low_Industrial,2018,127.2407403,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HLI_Oil_Boiler,Heat_Low_Industrial,2018,241.2451915,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HLI_Oil_Boiler,Heat_Low_Industrial,2018,6.725322246,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HLI_Oil_Boiler,Heat_Low_Industrial,2018,204.5081132,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HLI_Oil_Boiler,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HLI_Oil_Boiler,Heat_Low_Industrial,2018,279.074741,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HLI_Oil_Boiler,Heat_Low_Industrial,2018,180.8299666,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HLI_Oil_Boiler,Heat_Low_Industrial,2018,261.8424026,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HLI_Oil_Boiler,Heat_Low_Industrial,2018,140.3468188,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HLI_Oil_Boiler,Heat_Low_Industrial,2018,172.7261528,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HLI_Oil_Boiler,Heat_Low_Industrial,2018,52.17065697,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HLI_Solar_Thermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HLI_Solar_Thermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HLI_Solar_Thermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HLI_Solar_Thermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HLI_Solar_Thermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HLI_Solar_Thermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HLI_Solar_Thermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HLI_Solar_Thermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HLI_Solar_Thermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HLI_Solar_Thermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HLI_Solar_Thermal,Heat_Low_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,159.4685543,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,320.5964367,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,139.2829139,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,538.5497361,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,67.78185103,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,1006.492359,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,92.61686733,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,750.048767,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,78.28500237,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,679.4010741,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,80.28765956,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HMHI_Gas,Heat_MediumHigh_Industrial,2018,106.2796948,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HMHI_Gas,Heat_MediumHigh_Industrial,2018,348.3877425,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HMHI_Gas,Heat_MediumHigh_Industrial,2018,1885.488845,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HMHI_Gas,Heat_MediumHigh_Industrial,2018,1383.979475,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HMHI_Gas,Heat_MediumHigh_Industrial,2018,1204.713854,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HMHI_Gas,Heat_MediumHigh_Industrial,2018,18.69466209,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HMHI_Gas,Heat_MediumHigh_Industrial,2018,213.8133082,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HMHI_Gas,Heat_MediumHigh_Industrial,2018,234.7869218,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HMHI_Gas,Heat_MediumHigh_Industrial,2018,1046.873348,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HMHI_Gas,Heat_MediumHigh_Industrial,2018,1947.236084,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HMHI_Gas,Heat_MediumHigh_Industrial,2018,103.9493809,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,106.5325106,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,432.7613088,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,6296.308597,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,427.2599482,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,1114.361162,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,1043.128188,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,285.9532233,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,99.77739887,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,117.044638,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,271.3225092,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,38.85058437,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HMHI_Oil,Heat_MediumHigh_Industrial,2018,211.9973494,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HMHI_Oil,Heat_MediumHigh_Industrial,2018,442.159223,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HMHI_Oil,Heat_MediumHigh_Industrial,2018,1657.394555,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HMHI_Oil,Heat_MediumHigh_Industrial,2018,883.4876989,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HMHI_Oil,Heat_MediumHigh_Industrial,2018,0.972724684,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HMHI_Oil,Heat_MediumHigh_Industrial,2018,654.2984175,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HMHI_Oil,Heat_MediumHigh_Industrial,2018,416.3542003,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HMHI_Oil,Heat_MediumHigh_Industrial,2018,560.6383378,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HMHI_Oil,Heat_MediumHigh_Industrial,2018,631.394397,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HMHI_Oil,Heat_MediumHigh_Industrial,2018,689.2253204,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HMHI_Oil,Heat_MediumHigh_Industrial,2018,139.6661425,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,12.74608244,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,46.35816107,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,538.3764613,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,124.6398525,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,55.89505842,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,57.43442991,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,47.43515837,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,32.00880149,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,23.75053678,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,105.1292295,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,9.089046165,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HMHI_Biomass,Heat_MediumLow_Industrial,2018,77.20722561,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HMHI_Biomass,Heat_MediumLow_Industrial,2018,141.7625271,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HMHI_Biomass,Heat_MediumLow_Industrial,2018,93.16565031,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HMHI_Biomass,Heat_MediumLow_Industrial,2018,200.4389067,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HMHI_Biomass,Heat_MediumLow_Industrial,2018,343.0610406,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HMHI_Biomass,Heat_MediumLow_Industrial,2018,33.31727019,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HMHI_Biomass,Heat_MediumLow_Industrial,2018,323.7736789,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HMHI_Biomass,Heat_MediumLow_Industrial,2018,22.93327355,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HMHI_Biomass,Heat_MediumLow_Industrial,2018,229.5732408,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HMHI_Biomass,Heat_MediumLow_Industrial,2018,37.05455884,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HMHI_Gas,Heat_MediumLow_Industrial,2018,83.32503087,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HMHI_Gas,Heat_MediumLow_Industrial,2018,235.848245,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HMHI_Gas,Heat_MediumLow_Industrial,2018,1128.926013,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HMHI_Gas,Heat_MediumLow_Industrial,2018,726.8860577,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HMHI_Gas,Heat_MediumLow_Industrial,2018,306.185368,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HMHI_Gas,Heat_MediumLow_Industrial,2018,97.71214208,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HMHI_Gas,Heat_MediumLow_Industrial,2018,112.9197207,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HMHI_Gas,Heat_MediumLow_Industrial,2018,175.8655121,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HMHI_Gas,Heat_MediumLow_Industrial,2018,490.8314857,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HMHI_Gas,Heat_MediumLow_Industrial,2018,926.1162593,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HMHI_Gas,Heat_MediumLow_Industrial,2018,70.25125072,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,48.16649981,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,173.9879598,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,2069.207807,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,145.4667842,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,153.1599974,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,344.9330108,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,89.7112907,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,45.3789615,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,33.28239858,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,79.45950067,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,16.81680796,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HMHI_Oil,Heat_MediumLow_Industrial,2018,106.5128782,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HMHI_Oil,Heat_MediumLow_Industrial,2018,202.9831411,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HMHI_Oil,Heat_MediumLow_Industrial,2018,689.4219471,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HMHI_Oil,Heat_MediumLow_Industrial,2018,323.5968871,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HMHI_Oil,Heat_MediumLow_Industrial,2018,502.3075244,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HMHI_Oil,Heat_MediumLow_Industrial,2018,282.0197036,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HMHI_Oil,Heat_MediumLow_Industrial,2018,145.3342794,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HMHI_Oil,Heat_MediumLow_Industrial,2018,257.0716454,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HMHI_Oil,Heat_MediumLow_Industrial,2018,204.2151627,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HMHI_Oil,Heat_MediumLow_Industrial,2018,215.1379147,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HMHI_Oil,Heat_MediumLow_Industrial,2018,65.06844981,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HMHI_Steam_Electric,Heat_MediumLow_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HMHI_Steam_Electric,Heat_MediumLow_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HMHI_Steam_Electric,Heat_MediumLow_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HMHI_Steam_Electric,Heat_MediumLow_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HMHI_Steam_Electric,Heat_MediumLow_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HMHI_Steam_Electric,Heat_MediumLow_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HMHI_Steam_Electric,Heat_MediumLow_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HMHI_Steam_Electric,Heat_MediumLow_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HMHI_Steam_Electric,Heat_MediumLow_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HMHI_Steam_Electric,Heat_MediumLow_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HMHI_Steam_Electric,Heat_MediumLow_Industrial,2018,0,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,12.6108319,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,40.60448723,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,370.9515977,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,91.72673047,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,25.74611514,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,43.77463587,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,31.9470848,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,29.12557312,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,14.76094876,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,69.74645726,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,8.333756032,,PJ,IEA - Industrial energy use by source 2018 + own calculations,22.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>

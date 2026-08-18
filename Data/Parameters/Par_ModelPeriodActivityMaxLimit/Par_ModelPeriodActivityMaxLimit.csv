@@ -35,3 +35,47 @@ DE_NI,R_Coal_Lignite,3620,,PJ,,,
 DE_NRW,R_Coal_Lignite,465000,,PJ,,,
 DE_SN,R_Coal_Lignite,27600,,PJ,,,
 DE_ST,R_Coal_Lignite,30000,,PJ,,,
+Africa,R_Oil,683977,,PJ, World Population Review - Oil Reserves by Country 2026 + BP Statistical Review of World Energy 2016,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,R_Oil,64849,,PJ, World Population Review - Oil Reserves by Country 2026 + BP Statistical Review of World Energy 2016,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,R_Oil,172524,,PJ, World Population Review - Oil Reserves by Country 2026 + BP Statistical Review of World Energy 2016,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,R_Oil,57251,,PJ, World Population Review - Oil Reserves by Country 2026 + BP Statistical Review of World Energy 2016,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,R_Oil,723094,,PJ, World Population Review - Oil Reserves by Country 2026 + BP Statistical Review of World Energy 2016,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,R_Oil,30589,,PJ, World Population Review - Oil Reserves by Country 2026 + BP Statistical Review of World Energy 2016,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,R_Oil,0,,PJ, World Population Review - Oil Reserves by Country 2026 + BP Statistical Review of World Energy 2016,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,R_Oil,2065695,,PJ, World Population Review - Oil Reserves by Country 2026 + BP Statistical Review of World Energy 2016,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,R_Oil,5295008,,PJ, World Population Review - Oil Reserves by Country 2026 + BP Statistical Review of World Energy 2016,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,R_Oil,1328799,,PJ, World Population Review - Oil Reserves by Country 2026 + BP Statistical Review of World Energy 2016,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,R_Oil,11012,,PJ, World Population Review - Oil Reserves by Country 2026 + BP Statistical Review of World Energy 2016,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,R_Gas,664619,,PJ,Natural Gas Reserves by Country - Worldometer,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,R_Gas,225995,,PJ,Natural Gas Reserves by Country - Worldometer,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,R_Gas,194572,,PJ,Natural Gas Reserves by Country - Worldometer,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,R_Gas,162781,,PJ,Natural Gas Reserves by Country - Worldometer,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,R_Gas,2256265,,PJ,Natural Gas Reserves by Country - Worldometer,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,R_Gas,45730,,PJ,Natural Gas Reserves by Country - Worldometer,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,R_Gas,1042,,PJ,Natural Gas Reserves by Country - Worldometer,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,R_Gas,277424,,PJ,Natural Gas Reserves by Country - Worldometer,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,R_Gas,2958685,,PJ,Natural Gas Reserves by Country - Worldometer,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,R_Gas,434011,,PJ,Natural Gas Reserves by Country - Worldometer,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,R_Gas,80704,,PJ,Natural Gas Reserves by Country - Worldometer,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,R_Coal_Hardcoal,369275,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,R_Coal_Hardcoal,691950,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,R_Coal_Hardcoal,3405975,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,R_Coal_Hardcoal,1477100,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,R_Coal_Hardcoal,2505200,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,R_Coal_Hardcoal,2649475,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,R_Coal_Hardcoal,16650,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,R_Coal_Hardcoal,215400,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,R_Coal_Hardcoal,35250,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,R_Coal_Hardcoal,5611100,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,R_Coal_Hardcoal,1863600,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,R_Coal_Lignite,695,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,R_Coal_Lignite,144853,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,R_Coal_Lignite,99768,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,R_Coal_Lignite,822695,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,R_Coal_Lignite,952074,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,R_Coal_Lignite,53400,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,R_Coal_Lignite,105,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,R_Coal_Lignite,53400,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,R_Coal_Lignite,30074,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,R_Coal_Lignite,339895,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,R_Coal_Lignite,876400,,PJ,Coal - Statistical Review of World Energy 2021,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>

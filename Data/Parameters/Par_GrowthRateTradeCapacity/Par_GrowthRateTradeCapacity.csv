@@ -8591,3 +8591,366 @@ UK,RU,Power,2025,0,,Factor,"no source needed, limitation for existing / historic
 UK,BY,Power,2025,0,,Factor,"no source needed, limitation for existing / historic years",04.03.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,NONEU_Balkan,Power,2025,0,,Factor,"no source needed, limitation for existing / historic years",04.03.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,TR,Power,2025,0,,Factor,"no source needed, limitation for existing / historic years",04.03.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+Africa,Africa,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Asia-Rest,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,China,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Europe,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,FSU,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,India,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Japan + Republic of Korea,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Central & South America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Middle East,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,North America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Oceania,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Africa,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Asia-Rest,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,China,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Europe,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,FSU,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,India,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Japan + Republic of Korea,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Central & South America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Middle East,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,North America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Oceania,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Africa,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Asia-Rest,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,China,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Europe,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,FSU,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,India,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Japan + Republic of Korea,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Central & South America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Middle East,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,North America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Oceania,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Africa,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Asia-Rest,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,China,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Europe,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,FSU,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,India,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Japan + Republic of Korea,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Central & South America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Middle East,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,North America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Oceania,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Africa,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Asia-Rest,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,China,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Europe,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,FSU,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,India,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Japan + Republic of Korea,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Central & South America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Middle East,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,North America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Oceania,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Africa,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Asia-Rest,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,China,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Europe,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,FSU,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,India,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Japan + Republic of Korea,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Central & South America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Middle East,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,North America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Oceania,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Africa,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Asia-Rest,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,China,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Europe,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,FSU,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,India,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Japan + Republic of Korea,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Central & South America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Middle East,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,North America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Oceania,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Africa,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Asia-Rest,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,China,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Europe,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,FSU,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,India,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Japan + Republic of Korea,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Central & South America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Middle East,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,North America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Oceania,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Africa,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Asia-Rest,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,China,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Europe,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,FSU,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,India,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Japan + Republic of Korea,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Central & South America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Middle East,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,North America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Oceania,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Africa,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Asia-Rest,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,China,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Europe,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,FSU,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,India,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Japan + Republic of Korea,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Central & South America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Middle East,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,North America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Oceania,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Africa,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Asia-Rest,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,China,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Europe,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,FSU,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,India,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Japan + Republic of Korea,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Central & South America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Middle East,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,North America,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Oceania,Gas_Natural,All,0.016,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Africa,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Asia-Rest,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,China,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Europe,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,FSU,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,India,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Japan + Republic of Korea,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Central & South America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Middle East,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,North America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Oceania,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Africa,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Asia-Rest,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,China,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Europe,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,FSU,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,India,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Japan + Republic of Korea,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Central & South America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Middle East,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,North America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Oceania,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Africa,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Asia-Rest,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,China,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Europe,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,FSU,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,India,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Japan + Republic of Korea,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Central & South America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Middle East,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,North America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Oceania,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Africa,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Asia-Rest,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,China,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Europe,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,FSU,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,India,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Japan + Republic of Korea,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Central & South America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Middle East,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,North America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Oceania,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Africa,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Asia-Rest,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,China,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Europe,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,FSU,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,India,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Japan + Republic of Korea,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Central & South America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Middle East,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,North America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Oceania,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Africa,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Asia-Rest,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,China,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Europe,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,FSU,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,India,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Japan + Republic of Korea,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Central & South America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Middle East,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,North America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Oceania,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Africa,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Asia-Rest,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,China,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Europe,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,FSU,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,India,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Japan + Republic of Korea,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Central & South America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Middle East,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,North America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Oceania,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Africa,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Asia-Rest,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,China,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Europe,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,FSU,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,India,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Japan + Republic of Korea,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Central & South America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Middle East,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,North America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Oceania,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Africa,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Asia-Rest,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,China,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Europe,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,FSU,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,India,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Japan + Republic of Korea,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Central & South America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Middle East,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,North America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Oceania,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Africa,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Asia-Rest,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,China,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Europe,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,FSU,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,India,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Japan + Republic of Korea,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Central & South America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Middle East,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,North America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Oceania,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Africa,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Asia-Rest,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,China,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Europe,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,FSU,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,India,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Japan + Republic of Korea,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Central & South America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Middle East,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,North America,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Oceania,H2,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Africa,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Asia-Rest,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,China,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Europe,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,FSU,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,India,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Japan + Republic of Korea,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Central & South America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Middle East,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,North America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Oceania,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Africa,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Asia-Rest,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,China,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Europe,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,FSU,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,India,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Japan + Republic of Korea,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Central & South America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Middle East,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,North America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Oceania,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Africa,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Asia-Rest,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,China,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Europe,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,FSU,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,India,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Japan + Republic of Korea,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Central & South America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Middle East,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,North America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Oceania,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Africa,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Asia-Rest,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,China,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Europe,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,FSU,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,India,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Japan + Republic of Korea,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Central & South America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Middle East,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,North America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Oceania,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Africa,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Asia-Rest,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,China,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Europe,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,FSU,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,India,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Japan + Republic of Korea,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Central & South America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Middle East,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,North America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Oceania,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Africa,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Asia-Rest,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,China,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Europe,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,FSU,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,India,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Japan + Republic of Korea,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Central & South America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Middle East,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,North America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Oceania,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Africa,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Asia-Rest,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,China,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Europe,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,FSU,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,India,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Japan + Republic of Korea,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Central & South America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Middle East,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,North America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Oceania,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Africa,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Asia-Rest,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,China,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Europe,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,FSU,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,India,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Japan + Republic of Korea,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Central & South America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Middle East,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,North America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Oceania,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Africa,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Asia-Rest,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,China,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Europe,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,FSU,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,India,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Japan + Republic of Korea,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Central & South America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Middle East,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,North America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Oceania,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Africa,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Asia-Rest,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,China,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Europe,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,FSU,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,India,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Japan + Republic of Korea,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Central & South America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Middle East,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,North America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Oceania,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Africa,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Asia-Rest,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,China,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Europe,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,FSU,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,India,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Japan + Republic of Korea,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Central & South America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Middle East,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,North America,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Oceania,Oil,All,0.026,,Factor,assumption,23.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>

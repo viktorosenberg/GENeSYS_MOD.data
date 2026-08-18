@@ -4987,3 +4987,102 @@ UK,Heat_High_Industrial,2018,39.1524,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Stea
 UK,Heat_Low_Industrial,2018,172.0729,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,08.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,Heat_MediumHigh_Industrial,2018,209.1413,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,08.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,Heat_MediumLow_Industrial,2018,88.0461,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,08.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+Africa,Power,2018,2420.938286,,PJ,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Power,2018,3656.016,,PJ,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Power,2018,24370.89429,,PJ,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Power,2018,12665.45829,,PJ,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Power,2018,4050.457714,,PJ,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Power,2018,4484.633143,,PJ,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Power,2018,5632.427424,,PJ,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Power,2018,3937.618286,,PJ,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Power,2018,3547.969714,,PJ,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Power,2018,17427.94457,,PJ,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Power,2018,2640.785143,,PJ,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_High_Industrial,2018,240.4055437,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_High_Industrial,2018,430.0393796,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_High_Industrial,2018,6302.601014,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_High_Industrial,2018,1250.543689,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_High_Industrial,2018,1346.374093,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_High_Industrial,2018,1436.372493,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_High_Industrial,2018,475.1693547,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_High_Industrial,2018,628.1942271,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_High_Industrial,2018,877.9800084,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_High_Industrial,2018,1106.60407,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_High_Industrial,2018,237.2836495,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Low_Industrial,2018,570.1182937,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Low_Industrial,2018,1498.264161,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Low_Industrial,2018,7492.689083,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Low_Industrial,2018,2932.696997,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Low_Industrial,2018,1139.010452,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Low_Industrial,2018,1728.629152,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Low_Industrial,2018,830.5909318,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Low_Industrial,2018,1276.814507,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Low_Industrial,2018,762.4959395,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Low_Industrial,2018,2623.629732,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Low_Industrial,2018,235.2422252,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_MediumLow_Industrial,2018,327.8224652,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_MediumLow_Industrial,2018,795.1863602,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_MediumLow_Industrial,2018,4351.673038,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_MediumLow_Industrial,2018,1488.115367,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_MediumLow_Industrial,2018,987.3989919,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_MediumLow_Industrial,2018,1111.500537,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_MediumLow_Industrial,2018,413.2296447,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_MediumLow_Industrial,2018,831.2153653,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_MediumLow_Industrial,2018,766.0232706,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_MediumLow_Industrial,2018,1520.033377,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_MediumLow_Industrial,2018,197.5248228,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_MediumHigh_Industrial,2018,597.024192,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_MediumHigh_Industrial,2018,1590.262872,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_MediumHigh_Industrial,2018,10516.85141,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_MediumHigh_Industrial,2018,3357.916701,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_MediumHigh_Industrial,2018,2443.724631,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_MediumHigh_Industrial,2018,2780.048049,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_MediumHigh_Industrial,2018,1056.172759,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_MediumHigh_Industrial,2018,1677.260228,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_MediumHigh_Industrial,2018,1897.347922,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_MediumHigh_Industrial,2018,3692.314201,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_MediumHigh_Industrial,2018,371.8428138,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Buildings,2018,5562.958451,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Buildings,2018,2356.455495,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Buildings,2018,22896.3534,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Buildings,2018,16714.45183,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Buildings,2018,7642.869255,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Buildings,2018,6681.785542,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Buildings,2018,3316.951121,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Buildings,2018,2855.807505,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Buildings,2018,6206.615135,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Buildings,2018,9990.925017,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Buildings,2018,389.9714112,,PJ,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Cooling,2018,200,,PJ,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Cooling,2018,305.9985573,,PJ,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Cooling,2018,1608.936764,,PJ,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Cooling,2018,600,,PJ,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Cooling,2018,100,,PJ,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Cooling,2018,89.12142342,,PJ,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Cooling,2018,529.3272421,,PJ,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Cooling,2018,400,,PJ,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Cooling,2018,500,,PJ,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Cooling,2018,2300,,PJ,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Cooling,2018,66.61601346,,PJ,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Mobility_Passenger,2018,2300.977956,,Mpkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Mobility_Passenger,2018,4098.533426,,Mpkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Mobility_Passenger,2018,16922.86652,,Mpkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Mobility_Passenger,2018,8481.055197,,Mpkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Mobility_Passenger,2018,1028.529312,,Mpkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Mobility_Passenger,2018,10113.9443,,Mpkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Mobility_Passenger,2018,2126.253833,,Mpkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101020",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Mobility_Passenger,2018,3827.857664,,Mpkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101021",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Mobility_Passenger,2018,2059.023812,,Mpkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101022",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Mobility_Passenger,2018,10439.47069,,Mpkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101023",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Mobility_Passenger,2018,436.8759028,,Mpkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101024",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Mobility_Freight,2018,6184.288057,,Mtkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101025",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Mobility_Freight,2018,8916.875779,,Mtkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101026",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Mobility_Freight,2018,28982.10522,,Mtkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101027",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Mobility_Freight,2018,20735.82494,,Mtkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101028",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Mobility_Freight,2018,5601.995945,,Mtkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101029",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Mobility_Freight,2018,12893.22393,,Mtkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101030",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Mobility_Freight,2018,5437.418513,,Mtkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101031",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Mobility_Freight,2018,8478.195389,,Mtkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101032",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Mobility_Freight,2018,7748.004811,,Mtkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101033",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Mobility_Freight,2018,25020.8282,,Mtkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101034",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Mobility_Freight,2018,1668.062166,,Mtkm,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101035",14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>

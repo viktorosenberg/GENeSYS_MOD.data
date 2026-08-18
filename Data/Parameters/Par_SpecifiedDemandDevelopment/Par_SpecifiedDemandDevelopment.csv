@@ -1,2 +1,794 @@
 Region,Fuel,Year,Value,,Unit,Source,Updated at,Updated by
 World,Heat_Buildings,2025,0,,annual percentage change,dummy,30.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+Africa,Power,2025,0.016290577,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Power,2030,0.053535479,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Power,2035,0.042192687,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Power,2040,0.049964198,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Power,2045,0.039946541,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Power,2050,0.033281976,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Power,2055,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Power,2060,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Power,2025,0.037781567,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Power,2030,0.05408519,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Power,2035,0.042532692,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Power,2040,0.032193627,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Power,2045,0.027723318,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Power,2050,0.024344346,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Power,2055,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Power,2060,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Power,2025,0.043205589,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Power,2030,0.042143597,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Power,2035,0.034791649,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Power,2040,0.013943562,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Power,2045,0.0130345,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Power,2050,0.012236749,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Power,2055,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Power,2060,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Power,2025,-0.001259981,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Power,2030,0.02992933,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Power,2035,0.026028365,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Power,2040,0.018342805,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Power,2045,0.016800986,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Power,2050,0.015498378,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Power,2055,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Power,2060,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Power,2025,0.012850185,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Power,2030,0.01569989,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Power,2035,0.014556683,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Power,2040,0.011351588,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Power,2045,0.010741761,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Power,2050,0.010194128,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Power,2055,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Power,2060,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Power,2025,0.040430184,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Power,2030,0.069613629,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Power,2035,0.051549273,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Power,2040,0.038448661,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Power,2045,0.03223655,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Power,2050,0.027755126,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Power,2055,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Power,2060,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Power,2025,-0.010632098,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Power,2030,0.006898055,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Power,2035,0.006898055,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Power,2040,0.002498346,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Power,2045,0.002498346,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Power,2050,0.002498346,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Power,2055,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Power,2060,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Power,2025,0.015899507,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Power,2030,0.03009671,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Power,2035,0.026154811,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Power,2040,0.027709092,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Power,2045,0.02433338,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Power,2050,0.021691516,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Power,2055,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Power,2060,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Power,2025,0.029170244,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Power,2030,0.042448374,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Power,2035,0.034998878,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Power,2040,0.034046018,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Power,2045,0.029085311,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Power,2050,0.025387922,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Power,2055,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Power,2060,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Power,2025,0.004558462,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Power,2030,0.018123135,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Power,2035,0.016616526,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Power,2040,0.011551303,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Power,2045,0.01092042,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Power,2050,0.010354894,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Power,2055,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Power,2060,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Power,2025,0.026432779,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Power,2030,0.045717882,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Power,2035,0.037189067,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Power,2040,0.035383167,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Power,2045,0.030055003,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Power,2050,0.026123321,,annual percentage change,IEA - World Energy Outlook 2025 Free Dataset,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Power,2055,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Power,2060,0,,annual percentage change,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_High_Industrial,2025,0.044537393,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_High_Industrial,2030,0.070015884,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_High_Industrial,2035,0.071379599,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_High_Industrial,2040,0.06431502,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_High_Industrial,2045,0.055981163,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_High_Industrial,2050,0.044894961,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_High_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_High_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_High_Industrial,2025,0.025335884,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_High_Industrial,2030,0.028845282,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_High_Industrial,2035,0.028852994,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_High_Industrial,2040,0.024564455,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_High_Industrial,2045,0.014313147,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_High_Industrial,2050,0.010738259,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_High_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_High_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_High_Industrial,2025,0.024203868,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_High_Industrial,2030,0.020376409,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_High_Industrial,2035,0.0087955,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_High_Industrial,2040,-0.000884451,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_High_Industrial,2045,-0.008685117,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_High_Industrial,2050,-0.014864415,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_High_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_High_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_High_Industrial,2025,0.000866969,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_High_Industrial,2030,-5.24E-05,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_High_Industrial,2035,8.00E-05,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_High_Industrial,2040,-0.003047556,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_High_Industrial,2045,-0.006777663,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_High_Industrial,2050,-0.010484642,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_High_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_High_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_High_Industrial,2025,0.000783023,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_High_Industrial,2030,0.003150757,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_High_Industrial,2035,0.006786452,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_High_Industrial,2040,0.006343427,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_High_Industrial,2045,0.003317586,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_High_Industrial,2050,-0.000845599,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_High_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_High_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_High_Industrial,2025,0.038637245,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_High_Industrial,2030,0.040280381,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_High_Industrial,2035,0.019287549,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_High_Industrial,2040,0.034230701,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_High_Industrial,2045,0.023944555,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_High_Industrial,2050,0.014732694,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_High_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_High_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_High_Industrial,2025,-0.016268368,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_High_Industrial,2030,-0.023346946,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_High_Industrial,2035,-0.023496938,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_High_Industrial,2040,-0.023499968,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_High_Industrial,2045,-0.023050269,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_High_Industrial,2050,-0.02223591,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_High_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_High_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_High_Industrial,2025,0.005159075,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_High_Industrial,2030,0.023078989,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_High_Industrial,2035,0.022498054,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_High_Industrial,2040,0.017045431,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_High_Industrial,2045,0.011730038,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_High_Industrial,2050,0.005731056,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_High_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_High_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_High_Industrial,2025,0.0077013,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_High_Industrial,2030,0.018620341,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_High_Industrial,2035,0.019054169,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_High_Industrial,2040,0.019189173,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_High_Industrial,2045,0.025078056,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_High_Industrial,2050,0.024716659,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_High_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_High_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_High_Industrial,2025,0.0037564,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_High_Industrial,2030,0.004675294,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_High_Industrial,2035,0.000582724,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_High_Industrial,2040,-0.004549265,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_High_Industrial,2045,-0.00923888,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_High_Industrial,2050,-0.012957041,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_High_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_High_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_High_Industrial,2025,0.009928813,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_High_Industrial,2030,0.007803424,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_High_Industrial,2035,0.012787248,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_High_Industrial,2040,0.008903105,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_High_Industrial,2045,0.00573519,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_High_Industrial,2050,0.00161552,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_High_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_High_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Low_Industrial,2025,0.044537393,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Low_Industrial,2030,0.070015884,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Low_Industrial,2035,0.071379599,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Low_Industrial,2040,0.06431502,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Low_Industrial,2045,0.055981163,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Low_Industrial,2050,0.044894961,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Low_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Low_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Low_Industrial,2025,0.025335884,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Low_Industrial,2030,0.028845282,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Low_Industrial,2035,0.028852994,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Low_Industrial,2040,0.024564455,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Low_Industrial,2045,0.014313147,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Low_Industrial,2050,0.010738259,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Low_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Low_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Low_Industrial,2025,0.024203868,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Low_Industrial,2030,0.020376409,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Low_Industrial,2035,0.0087955,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Low_Industrial,2040,-0.000884451,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Low_Industrial,2045,-0.008685117,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Low_Industrial,2050,-0.014864415,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Low_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Low_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Low_Industrial,2025,0.000866969,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Low_Industrial,2030,-5.24E-05,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Low_Industrial,2035,8.00E-05,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Low_Industrial,2040,-0.003047556,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Low_Industrial,2045,-0.006777663,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Low_Industrial,2050,-0.010484642,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Low_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Low_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Low_Industrial,2025,0.000783023,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Low_Industrial,2030,0.003150757,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Low_Industrial,2035,0.006786452,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Low_Industrial,2040,0.006343427,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Low_Industrial,2045,0.003317586,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Low_Industrial,2050,-0.000845599,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Low_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Low_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Low_Industrial,2025,0.038637245,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Low_Industrial,2030,0.040280381,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Low_Industrial,2035,0.019287549,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Low_Industrial,2040,0.034230701,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Low_Industrial,2045,0.023944555,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Low_Industrial,2050,0.014732694,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Low_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Low_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Low_Industrial,2025,-0.016268368,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Low_Industrial,2030,-0.023346946,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Low_Industrial,2035,-0.023496938,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Low_Industrial,2040,-0.023499968,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Low_Industrial,2045,-0.023050269,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Low_Industrial,2050,-0.02223591,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Low_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Low_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Low_Industrial,2025,0.005159075,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Low_Industrial,2030,0.023078989,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Low_Industrial,2035,0.022498054,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Low_Industrial,2040,0.017045431,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Low_Industrial,2045,0.011730038,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Low_Industrial,2050,0.005731056,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Low_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Low_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Low_Industrial,2025,0.0077013,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Low_Industrial,2030,0.018620341,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Low_Industrial,2035,0.019054169,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Low_Industrial,2040,0.019189173,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Low_Industrial,2045,0.025078056,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Low_Industrial,2050,0.024716659,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Low_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Low_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Low_Industrial,2025,0.0037564,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Low_Industrial,2030,0.004675294,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Low_Industrial,2035,0.000582724,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Low_Industrial,2040,-0.004549265,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Low_Industrial,2045,-0.00923888,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Low_Industrial,2050,-0.012957041,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Low_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Low_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Low_Industrial,2025,0.009928813,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Low_Industrial,2030,0.007803424,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Low_Industrial,2035,0.012787248,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Low_Industrial,2040,0.008903105,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Low_Industrial,2045,0.00573519,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Low_Industrial,2050,0.00161552,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Low_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Low_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_MediumLow_Industrial,2025,0.044537393,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_MediumLow_Industrial,2030,0.070015884,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_MediumLow_Industrial,2035,0.071379599,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_MediumLow_Industrial,2040,0.06431502,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_MediumLow_Industrial,2045,0.055981163,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_MediumLow_Industrial,2050,0.044894961,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_MediumLow_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_MediumLow_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_MediumLow_Industrial,2025,0.025335884,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_MediumLow_Industrial,2030,0.028845282,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_MediumLow_Industrial,2035,0.028852994,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_MediumLow_Industrial,2040,0.024564455,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_MediumLow_Industrial,2045,0.014313147,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_MediumLow_Industrial,2050,0.010738259,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_MediumLow_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_MediumLow_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_MediumLow_Industrial,2025,0.024203868,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_MediumLow_Industrial,2030,0.020376409,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_MediumLow_Industrial,2035,0.0087955,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_MediumLow_Industrial,2040,-0.000884451,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_MediumLow_Industrial,2045,-0.008685117,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_MediumLow_Industrial,2050,-0.014864415,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_MediumLow_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_MediumLow_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_MediumLow_Industrial,2025,0.000866969,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_MediumLow_Industrial,2030,-5.24E-05,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_MediumLow_Industrial,2035,8.00E-05,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_MediumLow_Industrial,2040,-0.003047556,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_MediumLow_Industrial,2045,-0.006777663,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_MediumLow_Industrial,2050,-0.010484642,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_MediumLow_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_MediumLow_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_MediumLow_Industrial,2025,0.000783023,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_MediumLow_Industrial,2030,0.003150757,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_MediumLow_Industrial,2035,0.006786452,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_MediumLow_Industrial,2040,0.006343427,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_MediumLow_Industrial,2045,0.003317586,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_MediumLow_Industrial,2050,-0.000845599,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_MediumLow_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_MediumLow_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_MediumLow_Industrial,2025,0.038637245,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_MediumLow_Industrial,2030,0.040280381,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_MediumLow_Industrial,2035,0.019287549,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_MediumLow_Industrial,2040,0.034230701,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_MediumLow_Industrial,2045,0.023944555,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_MediumLow_Industrial,2050,0.014732694,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_MediumLow_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_MediumLow_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_MediumLow_Industrial,2025,-0.016268368,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_MediumLow_Industrial,2030,-0.023346946,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_MediumLow_Industrial,2035,-0.023496938,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_MediumLow_Industrial,2040,-0.023499968,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_MediumLow_Industrial,2045,-0.023050269,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_MediumLow_Industrial,2050,-0.02223591,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_MediumLow_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_MediumLow_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_MediumLow_Industrial,2025,0.005159075,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_MediumLow_Industrial,2030,0.023078989,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_MediumLow_Industrial,2035,0.022498054,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_MediumLow_Industrial,2040,0.017045431,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_MediumLow_Industrial,2045,0.011730038,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_MediumLow_Industrial,2050,0.005731056,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_MediumLow_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_MediumLow_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_MediumLow_Industrial,2025,0.0077013,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_MediumLow_Industrial,2030,0.018620341,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_MediumLow_Industrial,2035,0.019054169,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_MediumLow_Industrial,2040,0.019189173,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_MediumLow_Industrial,2045,0.025078056,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_MediumLow_Industrial,2050,0.024716659,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_MediumLow_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_MediumLow_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_MediumLow_Industrial,2025,0.0037564,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_MediumLow_Industrial,2030,0.004675294,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_MediumLow_Industrial,2035,0.000582724,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_MediumLow_Industrial,2040,-0.004549265,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_MediumLow_Industrial,2045,-0.00923888,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_MediumLow_Industrial,2050,-0.012957041,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_MediumLow_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_MediumLow_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_MediumLow_Industrial,2025,0.009928813,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_MediumLow_Industrial,2030,0.007803424,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_MediumLow_Industrial,2035,0.012787248,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_MediumLow_Industrial,2040,0.008903105,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_MediumLow_Industrial,2045,0.00573519,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_MediumLow_Industrial,2050,0.00161552,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_MediumLow_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_MediumLow_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_MediumHigh_Industrial,2025,0.044537393,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_MediumHigh_Industrial,2030,0.070015884,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_MediumHigh_Industrial,2035,0.071379599,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_MediumHigh_Industrial,2040,0.06431502,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_MediumHigh_Industrial,2045,0.055981163,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_MediumHigh_Industrial,2050,0.044894961,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_MediumHigh_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_MediumHigh_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_MediumHigh_Industrial,2025,0.025335884,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_MediumHigh_Industrial,2030,0.028845282,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_MediumHigh_Industrial,2035,0.028852994,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_MediumHigh_Industrial,2040,0.024564455,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_MediumHigh_Industrial,2045,0.014313147,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_MediumHigh_Industrial,2050,0.010738259,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_MediumHigh_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_MediumHigh_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_MediumHigh_Industrial,2025,0.024203868,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_MediumHigh_Industrial,2030,0.020376409,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_MediumHigh_Industrial,2035,0.0087955,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_MediumHigh_Industrial,2040,-0.000884451,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_MediumHigh_Industrial,2045,-0.008685117,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_MediumHigh_Industrial,2050,-0.014864415,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_MediumHigh_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_MediumHigh_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_MediumHigh_Industrial,2025,0.000866969,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_MediumHigh_Industrial,2030,-5.24E-05,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_MediumHigh_Industrial,2035,8.00E-05,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_MediumHigh_Industrial,2040,-0.003047556,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_MediumHigh_Industrial,2045,-0.006777663,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_MediumHigh_Industrial,2050,-0.010484642,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_MediumHigh_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_MediumHigh_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_MediumHigh_Industrial,2025,0.000783023,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_MediumHigh_Industrial,2030,0.003150757,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_MediumHigh_Industrial,2035,0.006786452,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_MediumHigh_Industrial,2040,0.006343427,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_MediumHigh_Industrial,2045,0.003317586,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_MediumHigh_Industrial,2050,-0.000845599,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_MediumHigh_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_MediumHigh_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_MediumHigh_Industrial,2025,0.038637245,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_MediumHigh_Industrial,2030,0.040280381,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_MediumHigh_Industrial,2035,0.019287549,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_MediumHigh_Industrial,2040,0.034230701,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_MediumHigh_Industrial,2045,0.023944555,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_MediumHigh_Industrial,2050,0.014732694,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_MediumHigh_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_MediumHigh_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_MediumHigh_Industrial,2025,-0.016268368,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_MediumHigh_Industrial,2030,-0.023346946,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_MediumHigh_Industrial,2035,-0.023496938,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_MediumHigh_Industrial,2040,-0.023499968,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_MediumHigh_Industrial,2045,-0.023050269,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_MediumHigh_Industrial,2050,-0.02223591,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_MediumHigh_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_MediumHigh_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_MediumHigh_Industrial,2025,0.005159075,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_MediumHigh_Industrial,2030,0.023078989,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_MediumHigh_Industrial,2035,0.022498054,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_MediumHigh_Industrial,2040,0.017045431,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_MediumHigh_Industrial,2045,0.011730038,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_MediumHigh_Industrial,2050,0.005731056,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_MediumHigh_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_MediumHigh_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_MediumHigh_Industrial,2025,0.0077013,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_MediumHigh_Industrial,2030,0.018620341,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_MediumHigh_Industrial,2035,0.019054169,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_MediumHigh_Industrial,2040,0.019189173,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_MediumHigh_Industrial,2045,0.025078056,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_MediumHigh_Industrial,2050,0.024716659,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_MediumHigh_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_MediumHigh_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_MediumHigh_Industrial,2025,0.0037564,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_MediumHigh_Industrial,2030,0.004675294,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_MediumHigh_Industrial,2035,0.000582724,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_MediumHigh_Industrial,2040,-0.004549265,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_MediumHigh_Industrial,2045,-0.00923888,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_MediumHigh_Industrial,2050,-0.012957041,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_MediumHigh_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_MediumHigh_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_MediumHigh_Industrial,2025,0.009928813,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_MediumHigh_Industrial,2030,0.007803424,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_MediumHigh_Industrial,2035,0.012787248,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_MediumHigh_Industrial,2040,0.008903105,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_MediumHigh_Industrial,2045,0.00573519,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_MediumHigh_Industrial,2050,0.00161552,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_MediumHigh_Industrial,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_MediumHigh_Industrial,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Buildings,2025,0.012306272,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Buildings,2030,0.016005472,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Buildings,2035,0.013978255,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Buildings,2040,0.009903153,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Buildings,2045,0.005575654,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Buildings,2050,0.000542645,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Buildings,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Buildings,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Buildings,2025,0.01769733,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Buildings,2030,0.019066311,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Buildings,2035,0.01336488,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Buildings,2040,0.008487531,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Buildings,2045,0.004179245,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Buildings,2050,0.000703533,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Buildings,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Buildings,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Buildings,2025,0.020092735,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Buildings,2030,0.020242891,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Buildings,2035,0.014464274,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Buildings,2040,0.00985444,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Buildings,2045,0.006035625,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Buildings,2050,0.002692883,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Buildings,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Buildings,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Buildings,2025,-0.003379369,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Buildings,2030,-0.007259548,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Buildings,2035,-0.009739332,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Buildings,2040,-0.012474023,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Buildings,2045,-0.015445736,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Buildings,2050,-0.018800425,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Buildings,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Buildings,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Buildings,2025,0.002064604,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Buildings,2030,-0.000530631,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Buildings,2035,-0.003021226,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Buildings,2040,-0.004785749,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Buildings,2045,-0.006469717,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Buildings,2050,-0.008549899,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Buildings,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Buildings,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Buildings,2025,0.007327417,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Buildings,2030,0.005231847,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Buildings,2035,-0.000906137,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Buildings,2040,-0.006742128,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Buildings,2045,-0.011706562,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Buildings,2050,-0.016248554,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Buildings,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Buildings,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Buildings,2025,-0.004990039,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Buildings,2030,-0.010174606,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Buildings,2035,-0.013128447,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Buildings,2040,-0.016294653,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Buildings,2045,-0.01948489,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Buildings,2050,-0.022865533,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Buildings,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Buildings,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Buildings,2025,0.001768688,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Buildings,2030,-0.000885289,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Buildings,2035,-0.004369995,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Buildings,2040,-0.008324172,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Buildings,2045,-0.012408407,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Buildings,2050,-0.016792982,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Buildings,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Buildings,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Buildings,2025,0.009086389,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Buildings,2030,0.007849498,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Buildings,2035,0.003297641,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Buildings,2040,-0.00103966,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Buildings,2045,-0.005935586,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Buildings,2050,-0.011592509,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Buildings,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Buildings,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Buildings,2025,0.006425882,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Buildings,2030,0.006258504,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Buildings,2035,0.003685669,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Buildings,2040,0.000775193,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Buildings,2045,-0.001999814,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Buildings,2050,-0.004559674,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Buildings,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Buildings,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Buildings,2025,0.01459221,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Buildings,2030,0.015209171,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Buildings,2035,0.010761062,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Buildings,2040,0.006679422,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Buildings,2045,0.002872888,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Buildings,2050,-0.000569242,,annual percentage change,"Keiner et al. (2021), https://doi.org/10.3390/en14133813 + UNIDO - INDSTAT Revision 4",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Buildings,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Buildings,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Cooling,2025,0.053509321,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Cooling,2030,0.05576558,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Cooling,2035,0.055157041,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Cooling,2040,0.05129269,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Cooling,2045,0.045071633,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Cooling,2050,0.038263086,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Cooling,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Heat_Cooling,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Cooling,2025,0.068885724,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Cooling,2030,0.071972594,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Cooling,2035,0.067583659,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Cooling,2040,0.05781914,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Cooling,2045,0.046372274,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Cooling,2050,0.036246057,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Cooling,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Heat_Cooling,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Cooling,2025,0.061197335,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Cooling,2030,0.038408022,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Cooling,2035,0.02379029,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Cooling,2040,0.014235247,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Cooling,2045,0.008407189,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Cooling,2050,0.004004401,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Cooling,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Heat_Cooling,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Cooling,2025,0.047935775,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Cooling,2030,0.037156804,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Cooling,2035,0.031477288,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Cooling,2040,0.027919224,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Cooling,2045,0.024606418,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Cooling,2050,0.020910227,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Cooling,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Heat_Cooling,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Cooling,2025,0.053509321,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Cooling,2030,0.05576558,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Cooling,2035,0.055157041,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Cooling,2040,0.05129269,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Cooling,2045,0.045071633,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Cooling,2050,0.038263086,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Cooling,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Heat_Cooling,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Cooling,2025,0.179370756,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Cooling,2030,0.172605611,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Cooling,2035,0.140388295,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Cooling,2040,0.097920209,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Cooling,2045,0.059659252,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Cooling,2050,0.033980775,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Cooling,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Heat_Cooling,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Cooling,2025,0.017700475,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Cooling,2030,0.012507117,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Cooling,2035,0.008679759,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Cooling,2040,0.005952182,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Cooling,2045,0.004219764,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Cooling,2050,0.002690106,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Cooling,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Heat_Cooling,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Cooling,2025,0.054540245,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Cooling,2030,0.064265342,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Cooling,2035,0.062887477,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Cooling,2040,0.056622645,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Cooling,2045,0.047076908,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Cooling,2050,0.036899399,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Cooling,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Heat_Cooling,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Cooling,2025,0.062049502,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Cooling,2030,0.063292083,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Cooling,2035,0.054713897,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Cooling,2040,0.042627929,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Cooling,2045,0.031162733,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Cooling,2050,0.022663432,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Cooling,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Heat_Cooling,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Cooling,2025,0.022646161,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Cooling,2030,0.020009166,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Cooling,2035,0.019145012,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Cooling,2040,0.016993506,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Cooling,2045,0.014360196,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Cooling,2050,0.011901922,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Cooling,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Heat_Cooling,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Cooling,2025,0.053509321,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Cooling,2030,0.05576558,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Cooling,2035,0.055157041,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Cooling,2040,0.05129269,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Cooling,2045,0.045071633,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Cooling,2050,0.038263086,,annual percentage change,"Net Zero Roadmap: A Global Pathway to Keep the 1.5 C Goal in Reach - Analysis - IEA + Global air conditioner stock, 1990-2050 - Charts - Data & Statistics - IEA",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Cooling,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Heat_Cooling,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Mobility_Passenger,2025,0.045619105,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Mobility_Passenger,2030,0.062280061,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Mobility_Passenger,2035,0.05921838,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Mobility_Passenger,2040,0.057845788,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Mobility_Passenger,2045,0.057170849,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Mobility_Passenger,2050,0.056665919,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Mobility_Passenger,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Mobility_Passenger,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Mobility_Passenger,2025,0.045140535,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Mobility_Passenger,2030,0.058205916,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Mobility_Passenger,2035,0.050104776,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Mobility_Passenger,2040,0.04511892,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Mobility_Passenger,2045,0.040669655,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Mobility_Passenger,2050,0.036899959,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Mobility_Passenger,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Mobility_Passenger,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Mobility_Passenger,2025,0.052251965,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Mobility_Passenger,2030,0.055119331,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Mobility_Passenger,2035,0.038071908,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Mobility_Passenger,2040,0.028000658,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Mobility_Passenger,2045,0.021688601,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Mobility_Passenger,2050,0.016449664,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Mobility_Passenger,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Mobility_Passenger,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Mobility_Passenger,2025,0.014306599,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Mobility_Passenger,2030,0.019834381,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Mobility_Passenger,2035,0.019951732,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Mobility_Passenger,2040,0.019655412,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Mobility_Passenger,2045,0.019103773,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Mobility_Passenger,2050,0.018899171,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Mobility_Passenger,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Mobility_Passenger,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Mobility_Passenger,2025,0.027486043,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Mobility_Passenger,2030,0.034022789,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Mobility_Passenger,2035,0.030200874,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Mobility_Passenger,2040,0.026815618,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Mobility_Passenger,2045,0.022147954,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Mobility_Passenger,2050,0.019893589,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Mobility_Passenger,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Mobility_Passenger,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Mobility_Passenger,2025,0.043065521,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Mobility_Passenger,2030,0.058267408,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Mobility_Passenger,2035,0.051850996,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Mobility_Passenger,2040,0.047341985,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Mobility_Passenger,2045,0.043409533,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Mobility_Passenger,2050,0.039782436,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Mobility_Passenger,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Mobility_Passenger,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Mobility_Passenger,2025,0.016008817,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Mobility_Passenger,2030,0.021138126,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Mobility_Passenger,2035,0.015838266,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Mobility_Passenger,2040,0.012235187,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Mobility_Passenger,2045,0.011862171,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Mobility_Passenger,2050,0.011069173,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Mobility_Passenger,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Mobility_Passenger,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Mobility_Passenger,2025,0.022473526,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Mobility_Passenger,2030,0.028469367,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Mobility_Passenger,2035,0.02568454,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Mobility_Passenger,2040,0.023999117,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Mobility_Passenger,2045,0.022929803,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Mobility_Passenger,2050,0.021250622,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Mobility_Passenger,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Mobility_Passenger,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Mobility_Passenger,2025,0.030330261,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Mobility_Passenger,2030,0.043068415,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Mobility_Passenger,2035,0.040237542,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Mobility_Passenger,2040,0.038155838,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Mobility_Passenger,2045,0.036615605,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Mobility_Passenger,2050,0.034678047,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Mobility_Passenger,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Mobility_Passenger,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Mobility_Passenger,2025,0.020493877,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Mobility_Passenger,2030,0.023611335,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Mobility_Passenger,2035,0.020890051,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Mobility_Passenger,2040,0.017327173,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Mobility_Passenger,2045,0.01502207,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Mobility_Passenger,2050,0.014422314,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Mobility_Passenger,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Mobility_Passenger,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Mobility_Passenger,2025,0.023386298,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Mobility_Passenger,2030,0.031163967,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Mobility_Passenger,2035,0.026440923,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Mobility_Passenger,2040,0.025289598,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Mobility_Passenger,2045,0.025311753,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Mobility_Passenger,2050,0.024587493,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Mobility_Passenger,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Mobility_Passenger,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Mobility_Freight,2025,0.04698543,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Mobility_Freight,2030,0.063123233,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Mobility_Freight,2035,0.059450582,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Mobility_Freight,2040,0.057131539,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Mobility_Freight,2045,0.055639856,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Mobility_Freight,2050,0.054570606,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Mobility_Freight,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,Mobility_Freight,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Mobility_Freight,2025,0.047604018,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Mobility_Freight,2030,0.061521777,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Mobility_Freight,2035,0.053010684,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Mobility_Freight,2040,0.04782258,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Mobility_Freight,2045,0.04323974,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Mobility_Freight,2050,0.039382074,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Mobility_Freight,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,Mobility_Freight,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Mobility_Freight,2025,0.055603873,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Mobility_Freight,2030,0.058697481,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Mobility_Freight,2035,0.040704589,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Mobility_Freight,2040,0.029903739,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Mobility_Freight,2045,0.023049841,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Mobility_Freight,2050,0.017647226,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Mobility_Freight,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,Mobility_Freight,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Mobility_Freight,2025,0.015048138,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Mobility_Freight,2030,0.020740359,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Mobility_Freight,2035,0.020570674,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Mobility_Freight,2040,0.020145021,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Mobility_Freight,2045,0.019243607,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Mobility_Freight,2050,0.018675016,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Mobility_Freight,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,Mobility_Freight,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Mobility_Freight,2025,0.018561808,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Mobility_Freight,2030,0.023943234,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Mobility_Freight,2035,0.020480983,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Mobility_Freight,2040,0.018209079,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Mobility_Freight,2045,0.013527325,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Mobility_Freight,2050,0.01265648,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Mobility_Freight,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,Mobility_Freight,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Mobility_Freight,2025,0.050895107,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Mobility_Freight,2030,0.068727617,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Mobility_Freight,2035,0.061000721,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Mobility_Freight,2040,0.055802624,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Mobility_Freight,2045,0.051073303,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Mobility_Freight,2050,0.04703421,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Mobility_Freight,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,Mobility_Freight,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Mobility_Freight,2025,0.01387921,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Mobility_Freight,2030,0.018110681,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Mobility_Freight,2035,0.014142639,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Mobility_Freight,2040,0.011049616,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Mobility_Freight,2045,0.010363236,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Mobility_Freight,2050,0.009623668,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Mobility_Freight,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,Mobility_Freight,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Mobility_Freight,2025,0.026252643,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Mobility_Freight,2030,0.032977849,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Mobility_Freight,2035,0.029669271,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Mobility_Freight,2040,0.027261167,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Mobility_Freight,2045,0.025999596,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Mobility_Freight,2050,0.02398116,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Mobility_Freight,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,Mobility_Freight,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Mobility_Freight,2025,0.030739573,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Mobility_Freight,2030,0.042725903,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Mobility_Freight,2035,0.038427907,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Mobility_Freight,2040,0.035258075,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Mobility_Freight,2045,0.032716619,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Mobility_Freight,2050,0.03014615,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Mobility_Freight,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,Mobility_Freight,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Mobility_Freight,2025,0.019797348,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Mobility_Freight,2030,0.023720846,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Mobility_Freight,2035,0.021506752,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Mobility_Freight,2040,0.018536557,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Mobility_Freight,2045,0.016334813,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Mobility_Freight,2050,0.01560943,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Mobility_Freight,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,Mobility_Freight,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Mobility_Freight,2025,0.021563947,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101014",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Mobility_Freight,2030,0.028746386,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101015",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Mobility_Freight,2035,0.024901346,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101016",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Mobility_Freight,2040,0.024073025,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101017",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Mobility_Freight,2045,0.023804823,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101018",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Mobility_Freight,2050,0.023037549,,annual percentage change,"Tjandra et al. (2024), https://doi.org/10.1016/j.trip.2024.101019",15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Mobility_Freight,2055,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,Mobility_Freight,2060,0,,annual percentage change,,15.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>

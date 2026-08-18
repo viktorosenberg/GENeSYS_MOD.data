@@ -61,3 +61,201 @@ AT,D_Battery_Li-Ion,2045,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,03.
 AT,D_Battery_Li-Ion,2050,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,D_Battery_Li-Ion,2055,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,D_Battery_Li-Ion,2060,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+Africa,S_PHS,2018,0.57528,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,S_PHS,2018,0.70164,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,S_PHS,2018,5.3982144,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,S_PHS,2018,5.1048864,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,S_PHS,2018,0.21888,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,S_PHS,2018,0.861408,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,S_PHS,2018,4.78746,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,S_PHS,2018,0.1764,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,S_PHS,2018,0.2304,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,S_PHS,2018,3.46545,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,S_PHS,2018,0.1458,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,S_PHS,2025,0.63828,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,S_PHS,2025,0.70164,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,S_PHS,2025,11.8692144,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,S_PHS,2025,5.1180138,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,S_PHS,2025,0.21888,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,S_PHS,2025,1.29168,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,S_PHS,2025,4.779,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,S_PHS,2025,0.1764,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,S_PHS,2025,0.39132,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,S_PHS,2025,3.43782,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,S_PHS,2025,0.1458,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,S_PHS,2030,0.63828,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,S_PHS,2030,0.70164,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,S_PHS,2030,11.8692144,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,S_PHS,2030,5.1180138,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,S_PHS,2030,0.21888,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,S_PHS,2030,1.29168,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,S_PHS,2030,4.779,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,S_PHS,2030,0.1764,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,S_PHS,2030,0.39132,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,S_PHS,2030,3.43782,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,S_PHS,2030,0.1458,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,S_PHS,2035,0.63828,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,S_PHS,2035,0.70164,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,S_PHS,2035,11.8692144,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,S_PHS,2035,5.1180138,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,S_PHS,2035,0.21888,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,S_PHS,2035,1.29168,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,S_PHS,2035,4.779,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,S_PHS,2035,0.1764,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,S_PHS,2035,0.39132,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,S_PHS,2035,3.43782,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,S_PHS,2035,0.1458,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,S_PHS,2040,0.63828,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,S_PHS,2040,0.70164,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,S_PHS,2040,11.8692144,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,S_PHS,2040,5.1180138,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,S_PHS,2040,0.21888,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,S_PHS,2040,1.29168,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,S_PHS,2040,4.779,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,S_PHS,2040,0.1764,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,S_PHS,2040,0.39132,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,S_PHS,2040,3.43782,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,S_PHS,2040,0.1458,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,S_PHS,2045,0.63828,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,S_PHS,2045,0.70164,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,S_PHS,2045,11.8692144,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,S_PHS,2045,5.1180138,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,S_PHS,2045,0.21888,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,S_PHS,2045,1.29168,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,S_PHS,2045,4.779,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,S_PHS,2045,0.1764,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,S_PHS,2045,0.39132,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,S_PHS,2045,3.43782,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,S_PHS,2045,0.1458,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,S_PHS,2050,0.63828,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,S_PHS,2050,0.70164,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,S_PHS,2050,11.8692144,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,S_PHS,2050,5.1180138,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,S_PHS,2050,0.21888,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,S_PHS,2050,1.29168,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,S_PHS,2050,4.779,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,S_PHS,2050,0.1764,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,S_PHS,2050,0.39132,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,S_PHS,2050,3.43782,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,S_PHS,2050,0.1458,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,S_PHS,2055,0.63828,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,S_PHS,2055,0.70164,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,S_PHS,2055,11.8692144,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,S_PHS,2055,5.1180138,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,S_PHS,2055,0.21888,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,S_PHS,2055,1.29168,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,S_PHS,2055,4.779,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,S_PHS,2055,0.1764,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,S_PHS,2055,0.39132,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,S_PHS,2055,3.43782,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,S_PHS,2055,0.1458,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,S_PHS,2060,0.63828,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,S_PHS,2060,0.70164,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,S_PHS,2060,11.8692144,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,S_PHS,2060,5.1180138,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,S_PHS,2060,0.21888,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,S_PHS,2060,1.29168,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,S_PHS,2060,4.779,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,S_PHS,2060,0.1764,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,S_PHS,2060,0.39132,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,S_PHS,2060,3.43782,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,S_PHS,2060,0.1458,,PJ,based on ResidualCapacity of D_PHS,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,S_Battery_Li-Ion,2018,0.00216,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,S_Battery_Li-Ion,2018,0.0054,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,S_Battery_Li-Ion,2018,0.01728,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,S_Battery_Li-Ion,2018,0.01404,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,S_Battery_Li-Ion,2018,0.00108,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,S_Battery_Li-Ion,2018,0.00432,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,S_Battery_Li-Ion,2018,0.00324,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,S_Battery_Li-Ion,2018,0.00324,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,S_Battery_Li-Ion,2018,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,S_Battery_Li-Ion,2018,0.017928,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,S_Battery_Li-Ion,2018,0.001512,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,S_Battery_Li-Ion,2025,0.005832,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,S_Battery_Li-Ion,2025,0.01458,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,S_Battery_Li-Ion,2025,0.68148,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,S_Battery_Li-Ion,2025,0.10152,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,S_Battery_Li-Ion,2025,0.002916,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,S_Battery_Li-Ion,2025,0.011664,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,S_Battery_Li-Ion,2025,0.008748,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,S_Battery_Li-Ion,2025,0.008748,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,S_Battery_Li-Ion,2025,0.03456,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,S_Battery_Li-Ion,2025,0.2087856,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,S_Battery_Li-Ion,2025,0.0854064,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,S_Battery_Li-Ion,2030,0.005832,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,S_Battery_Li-Ion,2030,0.01458,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,S_Battery_Li-Ion,2030,0.68148,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,S_Battery_Li-Ion,2030,0.10152,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,S_Battery_Li-Ion,2030,0.002916,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,S_Battery_Li-Ion,2030,0.011664,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,S_Battery_Li-Ion,2030,0.008748,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,S_Battery_Li-Ion,2030,0.008748,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,S_Battery_Li-Ion,2030,0.03456,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,S_Battery_Li-Ion,2030,0.2087856,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,S_Battery_Li-Ion,2030,0.0854064,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,S_Battery_Li-Ion,2035,0.005832,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,S_Battery_Li-Ion,2035,0.01458,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,S_Battery_Li-Ion,2035,0.68148,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,S_Battery_Li-Ion,2035,0.10152,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,S_Battery_Li-Ion,2035,0.002916,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,S_Battery_Li-Ion,2035,0.011664,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,S_Battery_Li-Ion,2035,0.008748,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,S_Battery_Li-Ion,2035,0.008748,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,S_Battery_Li-Ion,2035,0.03456,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,S_Battery_Li-Ion,2035,0.2087856,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,S_Battery_Li-Ion,2035,0.0854064,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,S_Battery_Li-Ion,2040,0.005832,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,S_Battery_Li-Ion,2040,0.01458,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,S_Battery_Li-Ion,2040,0.68148,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,S_Battery_Li-Ion,2040,0.10152,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,S_Battery_Li-Ion,2040,0.002916,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,S_Battery_Li-Ion,2040,0.011664,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,S_Battery_Li-Ion,2040,0.008748,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,S_Battery_Li-Ion,2040,0.008748,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,S_Battery_Li-Ion,2040,0.03456,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,S_Battery_Li-Ion,2040,0.2087856,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,S_Battery_Li-Ion,2040,0.0854064,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,S_Battery_Li-Ion,2045,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,S_Battery_Li-Ion,2045,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,S_Battery_Li-Ion,2045,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,S_Battery_Li-Ion,2045,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,S_Battery_Li-Ion,2045,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,S_Battery_Li-Ion,2045,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,S_Battery_Li-Ion,2045,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,S_Battery_Li-Ion,2045,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,S_Battery_Li-Ion,2045,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,S_Battery_Li-Ion,2045,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,S_Battery_Li-Ion,2045,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,S_Battery_Li-Ion,2050,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,S_Battery_Li-Ion,2050,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,S_Battery_Li-Ion,2050,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,S_Battery_Li-Ion,2050,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,S_Battery_Li-Ion,2050,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,S_Battery_Li-Ion,2050,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,S_Battery_Li-Ion,2050,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,S_Battery_Li-Ion,2050,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,S_Battery_Li-Ion,2050,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,S_Battery_Li-Ion,2050,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,S_Battery_Li-Ion,2050,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,S_Battery_Li-Ion,2055,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,S_Battery_Li-Ion,2055,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,S_Battery_Li-Ion,2055,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,S_Battery_Li-Ion,2055,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,S_Battery_Li-Ion,2055,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,S_Battery_Li-Ion,2055,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,S_Battery_Li-Ion,2055,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,S_Battery_Li-Ion,2055,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,S_Battery_Li-Ion,2055,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,S_Battery_Li-Ion,2055,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,S_Battery_Li-Ion,2055,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,S_Battery_Li-Ion,2060,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,S_Battery_Li-Ion,2060,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,S_Battery_Li-Ion,2060,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,S_Battery_Li-Ion,2060,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,S_Battery_Li-Ion,2060,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,S_Battery_Li-Ion,2060,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,S_Battery_Li-Ion,2060,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,S_Battery_Li-Ion,2060,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,S_Battery_Li-Ion,2060,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,S_Battery_Li-Ion,2060,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,S_Battery_Li-Ion,2060,0,,PJ,based on ResidualCapacity of D_Battery_Li-Ion,10.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>

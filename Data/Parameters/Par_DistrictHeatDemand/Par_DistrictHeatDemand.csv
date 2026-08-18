@@ -329,3 +329,102 @@ UK,2045,43.2,,PJ,European Commission: District heating and cooling in the Europe
 UK,2050,43.2,,PJ,European Commission: District heating and cooling in the European Union + Fallahnejad et al. 2024: District heating potential in the EU-27 (see assumption and/or calculation file),10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,2055,43.2,,PJ,European Commission: District heating and cooling in the European Union + Fallahnejad et al. 2024: District heating potential in the EU-27 (see assumption and/or calculation file),10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,2060,43.2,,PJ,European Commission: District heating and cooling in the European Union + Fallahnejad et al. 2024: District heating potential in the EU-27 (see assumption and/or calculation file),10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+Africa,2018,0,,PJ,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,2018,21.49528906,,PJ,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,2018,4938.701419,,PJ,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,2018,1838.999848,,PJ,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,2018,2947.705544,,PJ,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,2018,0,,PJ,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,2018,176.456619,,PJ,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,2018,0,,PJ,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,2018,0,,PJ,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,2018,60.07861294,,PJ,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,2018,0,,PJ,Residential energy use by source IEA 2018 + Industrial energy use by source IEA 2018,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,2025,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,2025,21.40124717,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,2025,5802.974167,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,2025,1830.954223,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,2025,2934.809332,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,2025,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,2025,175.6846213,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,2025,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,2025,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,2025,59.81576901,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,2025,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,2030,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,2030,21.33407439,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,2030,6420.311844,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,2030,1825.207349,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,2030,2925.597753,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,2030,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,2030,175.1331943,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,2030,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,2030,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,2030,59.62802334,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,2030,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,2035,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,2035,21.26690161,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,2035,6580.81964,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,2035,1819.460474,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,2035,2916.386173,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,2035,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,2035,174.5817674,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,2035,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,2035,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,2035,59.44027768,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,2035,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,2040,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,2040,21.19972883,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,2040,6741.327436,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,2040,1813.7136,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,2040,2907.174593,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,2040,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,2040,174.0303405,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,2040,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,2040,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,2040,59.25253201,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,2040,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,2045,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,2045,21.13255605,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,2045,6901.835232,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,2045,1807.966725,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,2045,2897.963013,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,2045,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,2045,173.4789135,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,2045,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,2045,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,2045,59.06478635,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,2045,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,2050,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,2050,21.06538328,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,2050,7062.343029,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,2050,1802.219851,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,2050,2888.751433,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,2050,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,2050,172.9274866,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,2050,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,2050,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,2050,58.87704068,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,2050,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,2055,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,2055,21.06538328,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,2055,7062.343029,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,2055,1802.219851,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,2055,2888.751433,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,2055,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,2055,172.9274866,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,2055,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,2055,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,2055,58.87704068,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,2055,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Africa,2060,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Asia-Rest,2060,21.06538328,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+China,2060,7062.343029,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Europe,2060,1802.219851,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FSU,2060,2888.751433,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+India,2060,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Japan + Republic of Korea,2060,172.9274866,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Central & South America,2060,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Middle East,2060,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+North America,2060,58.87704068,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+Oceania,2060,0,,PJ,,14.07.2026,Julian Bornemann <jb@wip.tu-berlin.de>
