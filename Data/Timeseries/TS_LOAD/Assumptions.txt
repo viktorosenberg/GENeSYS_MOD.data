@@ -1,0 +1,10 @@
+Global data, 2026.08.15; Viktor Rosenberg <viktor.jonberg@gmail.com>
+Source: 
+- For Europe Open Power System Data platform (2020) with aggregated hourly national data from the ENTSO-E Transparency Platform
+- For Africa, Asia-Rest, FSU, Middle East and Central & South America generated data from https://zenodo.org/records/6569890
+- For North America national data was compiled, summarised and normalised. US - https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48. Canada made out of three regions, Alberta - https://www.aeso.ca/market/market-and-system-reporting/data-requests/hourly-load-by-area-and-region/, Ontario - https://reports-public.ieso.ca/public/Demand/, Quebec - https://donnees.hydroquebec.com/explore/dataset/historique-demande-electricite-quebec/information/?refine.date=2019. Mexico data gathered from https://cenace.streamlit.app/#downloading-data for three grid networks.
+- For India national data was collected and normalised, though for year 2019. Data collected from https://www.kaggle.com/datasets/shubhamvashisht/hourly-load-india-electrical-load-forecasting?resource=download
+- For China generated data from https://zenodo.org/records/8322210 (did not include Mongolia)
+was used
+- For Oceania region was treated as Australia and New Zealand due to limited data availability, with Australia only being covered as southern and eastern regions. Australia - https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data. New Zealand - https://www.ea.govt.nz/data-and-insights/datasets/wholesale/generation/generation-output/
+-  For Japan and Korea national data was collected and normalised. Japan - https://isep-energychart.com/en/graphics/electricityproduction/?region=all&period_year=2018&period_month=4&period_day=1&period_length=12+months&display_format=residual_demand. South Korea - https://www.data.go.kr/en/data/15065266/fileData.do
