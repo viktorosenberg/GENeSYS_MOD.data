@@ -1,0 +1,2 @@
+Global data
+ERA5 with GENeSYS-MOD_RES_Tool.ipynb from GIS_&_Timeseries_Tool in GENeSYS_MOD.tools; 2026.07.21; Viktor Rosenberg <viktor.jonberg@gmail.com>
